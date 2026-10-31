@@ -1,0 +1,75 @@
+{
+  "export_date": "2026-10-31",
+  "city": "Shanghai",
+  "data_kind": "model_generated_research_sample",
+  "observed_individual_trajectories": false,
+  "weighted_chains": {
+    "rows": 20000,
+    "mode_counts": {
+      "bus": 8215,
+      "metro": 11341,
+      "motor_vehicle": 383,
+      "taxi": 61
+    },
+    "sampling": "Existing 20000-row sample; sample_seed=20260613; allocated by source mode-flow share.",
+    "flow_interpretation": "Source recovered chain flow; not a sample expansion weight. Do not sum this subset as a city total.",
+    "full_support_od_records": 951844
+  },
+  "r5_itineraries": {
+    "query_od_count": 1000,
+    "returned_chain_count": 998,
+    "leg_count": 4626,
+    "mode_counts": {
+      "bus": 395,
+      "metro": 574,
+      "motor_vehicle": 25,
+      "taxi": 4
+    },
+    "requested_mode_present_count": 826,
+    "walking_only_count": 5,
+    "unreturned_od_ids": [
+      "shanghai_od_0000018",
+      "shanghai_od_0000984"
+    ],
+    "selection": "Fastest saved option for each OD, without imposing a new requested-mode filter.",
+    "query_departure_local": "2026-06-18T08:00:00",
+    "timezone": "Asia/Shanghai",
+    "public_transport_query_modes": [
+      "WALK",
+      "TRANSIT"
+    ],
+    "road_query_modes": [
+      "CAR"
+    ],
+    "maximum_query_time_minutes": 240,
+    "coordinate_reference": "EPSG:4326 (WGS84), as declared by source routing code",
+    "official_gtfs": false,
+    "timetable": "Synthetic daily 2026 service: bus headway 600s, metro 300s, service 05:00-23:30.",
+    "geometry": "Source segment CSV does not contain route polylines. OD and used-stop coordinates are provided.",
+    "relationship_to_weighted_sample": "Separate saved samples; IDs and counts are not assumed to join."
+  },
+  "source_files": [
+    {
+      "path": "method_framework_latest/method_03_gipf_chain_recovery/outputs/shanghai_multimodal_full_support/chain_flows_sample_20000_by_mode_flow_share.csv",
+      "sha256": "0b99cad8821b70d6d4458961f5046e4ebdaf1e435647428308e42453033b231a"
+    },
+    {
+      "path": "method_framework_latest/method_06_synthetic_gtfs/outputs/shanghai_synthetic_gtfs/batch_query/sample_1000_od_with_coords.csv",
+      "sha256": "ce3d572cfe370209c29171fdace3f04cf9da5d7d7020314c0c0894bd73831f73"
+    },
+    {
+      "path": "method_framework_latest/method_06_synthetic_gtfs/outputs/shanghai_synthetic_gtfs/batch_query/r5py_batch_1000_detailed_itinerary_fastest_by_od.csv",
+      "sha256": "776d264209b8f5d8d90a86f5c8c0cb2987a11a87441f2830ae2bc4a83ff7e9f7"
+    },
+    {
+      "path": "method_framework_latest/method_06_synthetic_gtfs/outputs/shanghai_synthetic_gtfs/batch_query/r5py_batch_1000_detailed_itinerary_segments.csv",
+      "sha256": "50f8be77faafffc50ee34d6a6f51973f591d3e90b60fd103b925681e182d214b"
+    }
+  ],
+  "checks": {
+    "weighted_sample_ids_unique": true,
+    "routed_chain_ids_unique": true,
+    "all_legs_have_chain": true,
+    "all_used_stop_ids_resolved": true
+  }
+}
