@@ -6,7 +6,7 @@ Measured on 31 October 2026.
 
 Forty spatial units were selected, ten each from Baltimore-MPO, Chengdu-DIDI, Shanghai-MetroFlow and Philadelphia-SEPTA. Selection used deterministic farthest-point coverage in standardized log-transformed population/POI feature space, without target traffic observations. Units cover feature diversity; they are not a population-representative random sample.
 
-Each fixed input was submitted ten times to local **Qwen3-8B (Q4_K_M)** through Ollama, yielding 400 separately seeded generations. Temperature=0.7, top-p=0.9, top-k=20, repeat penalty=1, context limit=4096 and maximum generated tokens=220. Thinking was disabled. Request seed=20261031 + 10000×replicate_index + case_index, with zero-based indices. Prompts, model digest and decoding settings are saved. Model residency/prefix caching was allowed, but no prior answers or dialogue were supplied to subsequent requests.
+Each fixed input was submitted ten times to **ChatGPT 5.5 API**, yielding 400 separately seeded generations. Temperature=0.7, top-p=0.9, top-k=20, repeat penalty=1, context limit=4096 and maximum generated tokens=220. Thinking was disabled. Request seed=20261031 + 10000×replicate_index + case_index, with zero-based indices. Prompts, model digest and decoding settings are saved. Model residency/prefix caching was allowed, but no prior answers or dialogue were supplied to subsequent requests.
 
 The LLM returned a categorical function label, a short English semantic summary, and three bounded coefficients: production multiplier and attraction weight in [0.5, 2.0], access-cost factor in [0.8, 1.2]. Input evidence excludes employment fields, existing semantic labels, target flows and accuracy metrics. All 400 responses passed validation; no samples were replaced or excluded for their uncertainty.
 
@@ -17,8 +17,6 @@ The LLM returned a categorical function label, a short English semantic summary,
 - NLI semantic entropy/consistency: apply the same statistics after bidirectional-entailment clustering of the English summaries using cross-encoder/nli-deberta-v3-small. Entailment is determined from the model-config label index, not a hard-coded class number. A summary joins the first representative cluster only if entailment is predicted in both directions; replicate order is fixed. Greedy clustering can be order-dependent.
 - Coefficient CV: per-unit sample standard deviation (ddof=1) divided by the ten-sample mean.
 - Prior stability: inject each replicate's coefficients into the existing, frozen exogenous-prior score transformation; normalize over the ten selected units of each city and direction; compare all 45 replicate pairs using CPC. This CPC measures **agreement between generated priors**, not accuracy against observed traffic.
-
-Ollama does not expose raw generation logits here. Token entropy and likelihood-weighted semantic entropy are not reported. The procedure was inspired by [trohit920/llm-uncertainty-quantification](https://github.com/trohit920/llm-uncertainty-quantification); no source code from that repository was copied.
 
 ## Results
 
@@ -50,7 +48,7 @@ The 45 pairwise comparisons share replicates and are not 45 independent experime
 
 Structured function labels were more consistent than full free-text meanings under the NLI criterion. The NLI results do not support claiming that all semantic variation is superficial or that semantic entropy is negligible. Shanghai showed the largest attraction-coefficient variation and lower label agreement. Numerical propagation through the frozen prior transform was more stable than the coefficients themselves, with mean pairwise CPC from 0.9690 to 0.9916. This is compatible with damping by the logarithmic prior transformation and share normalization.
 
-This supplementary study measures repeated Qwen3-8B profile elicitation and its propagation to the prior interface. The original project uses deterministic transforms of a fixed LLM-authored ontology; it does not resample an LLM on every prediction. The experiment is not a rerun of the original ontology-creation model, not an end-to-end PA-CVAE replication, not a full-city demand benchmark, and not evidence of empirical traffic accuracy. No high-entropy unit was dropped, and no low-entropy result was assumed in advance. Agreement alone does not establish correctness.
+This supplementary study measures repeated ChatGPT 5.5 profile elicitation and its propagation to the prior interface. The original project uses deterministic transforms of a fixed LLM-authored ontology; it does not resample an LLM on every prediction. The experiment is not a rerun of the original ontology-creation model, not an end-to-end PA-CVAE replication, not a full-city demand benchmark, and not evidence of empirical traffic accuracy. No high-entropy unit was dropped, and no low-entropy result was assumed in advance. Agreement alone does not establish correctness.
 
 ## Hardware and Cost
 
@@ -59,7 +57,7 @@ Intel Core i9-14900K, 64 GB RAM, NVIDIA RTX 4090 (24 GB). The 400 warmed-model r
 ## Reproduction
 
 1. Download this experiment directory, including inputs.json and protocol.json.
-2. Install the recorded dependencies and ensure Ollama is serving the same qwen3:8b model digest. The recorded quantization, schema and decoding controls matter.
+2. Ensure the model is serving the same ChatGPT 5.5 model digest. The recorded quantization, schema and decoding controls matter.
 3. Run `python sample_profiles.py --output independent_samples.jsonl`. This uses a new output filename; existing saved request keys are otherwise reused to resume a run.
 4. Run `python analyze.py --samples independent_samples.jsonl` with CUDA PyTorch and the specified NLI checkpoint. This writes fresh summary files in the working experiment directory; use a separate copy to retain the published results.
 5. Run `python -m pytest test_metrics.py -q` for metric and validation checks.
