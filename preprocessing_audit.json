@@ -1,0 +1,286 @@
+{
+  "audit_date": "2026-10-31",
+  "scope": "Aggregate quality audit; no model rerun or preprocessing changes.",
+  "processed_baltimore_philadelphia": [
+    {
+      "city": "Baltimore-MPO",
+      "target": "motor_inflow",
+      "units": 597,
+      "value_audit": {
+        "rows": 597,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 0
+      },
+      "missing_lon": 0,
+      "missing_lat": 0
+    },
+    {
+      "city": "Baltimore-MPO",
+      "target": "motor_outflow",
+      "units": 597,
+      "value_audit": {
+        "rows": 597,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 0
+      },
+      "missing_lon": 0,
+      "missing_lat": 0
+    },
+    {
+      "city": "Philadelphia-SEPTA",
+      "target": "bus_tap_in",
+      "units": 6502,
+      "value_audit": {
+        "rows": 6502,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 181
+      },
+      "missing_lon": 0,
+      "missing_lat": 0
+    },
+    {
+      "city": "Philadelphia-SEPTA",
+      "target": "bus_tap_out",
+      "units": 6502,
+      "value_audit": {
+        "rows": 6502,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 179
+      },
+      "missing_lon": 0,
+      "missing_lat": 0
+    }
+  ],
+  "septa_source": {
+    "input_rows": 17538,
+    "unique_stop_codes": 12601,
+    "fields": {
+      "WKDY_ONS": {
+        "rows": 17538,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 2943
+      },
+      "WKDY_OFFS": {
+        "rows": 17538,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 2537
+      },
+      "Lon": {
+        "rows": 17538,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 17538,
+        "zero": 0
+      },
+      "Lat": {
+        "rows": 17538,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 0
+      }
+    }
+  },
+  "metro_source": {
+    "fields": {
+      "inFlow": {
+        "rows": 3788892,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 186652
+      },
+      "outFlow": {
+        "rows": 3788892,
+        "missing_or_nonnumeric": 0,
+        "nonfinite_nonmissing": 0,
+        "negative": 0,
+        "zero": 180600
+      }
+    },
+    "unique_stations": 302,
+    "available_dates": 123,
+    "first_date": "20170501",
+    "last_date": "20170831",
+    "daily_direction_groups_below_1000000": [
+      {
+        "date": "20170504",
+        "direction": "in",
+        "daily_total": 11132.0
+      },
+      {
+        "date": "20170504",
+        "direction": "out",
+        "daily_total": 11132.0
+      },
+      {
+        "date": "20170508",
+        "direction": "in",
+        "daily_total": 3470.0
+      },
+      {
+        "date": "20170508",
+        "direction": "out",
+        "daily_total": 3470.0
+      },
+      {
+        "date": "20170509",
+        "direction": "in",
+        "daily_total": 7453.0
+      },
+      {
+        "date": "20170509",
+        "direction": "out",
+        "daily_total": 7453.0
+      },
+      {
+        "date": "20170616",
+        "direction": "in",
+        "daily_total": 24940.0
+      },
+      {
+        "date": "20170616",
+        "direction": "out",
+        "daily_total": 24940.0
+      },
+      {
+        "date": "20170627",
+        "direction": "in",
+        "daily_total": 964.0
+      },
+      {
+        "date": "20170627",
+        "direction": "out",
+        "daily_total": 964.0
+      },
+      {
+        "date": "20170628",
+        "direction": "in",
+        "daily_total": 6840.0
+      },
+      {
+        "date": "20170628",
+        "direction": "out",
+        "daily_total": 6840.0
+      }
+    ],
+    "missing_time_slots_audited": false
+  },
+  "chengdu_source": {
+    "demand": {
+      "daily_files": 7,
+      "input_rows": 24819,
+      "fields": {
+        "longitude": {
+          "rows": 24819,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "latitude": {
+          "rows": 24819,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "value": {
+          "rows": 24819,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "hour": {
+          "rows": 24819,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 766
+        }
+      }
+    },
+    "response": {
+      "daily_files": 7,
+      "input_rows": 20418,
+      "fields": {
+        "longitude": {
+          "rows": 20418,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "latitude": {
+          "rows": 20418,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "value": {
+          "rows": 20418,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 0
+        },
+        "hour": {
+          "rows": 20418,
+          "missing_or_nonnumeric": 0,
+          "nonfinite_nonmissing": 0,
+          "negative": 0,
+          "zero": 659
+        }
+      }
+    }
+  },
+  "interpretation": "Zero values in processed data cannot be counted as missing observations. No claim is made that absent source time slots were observed zeros.",
+  "inspected_code": [
+    {
+      "path": "scripts/build_multimodal_replacement_marginals.py",
+      "sha256": "7f33df86ab97c8059a11e8ac60c223b2c548c64386b46043feda97417052e873"
+    },
+    {
+      "path": "scripts/run_metroflow_temporal_marginal.py",
+      "sha256": "850cbe40e8ea0ef3c8cb9235a678f76e4855c3fd89b284e2675a710b8dc3ecbc"
+    },
+    {
+      "path": "scripts/run_chengdu_didi_temporal_marginal.py",
+      "sha256": "529159b2f904cbb3f6284f15eb35f2d7004a6deeac7a73e2964e7c3ac307bb2f"
+    },
+    {
+      "path": "scripts/run_unified_prior_guided_neural_generator.py",
+      "sha256": "0105b7bb46f60c9abdd47faeeb3da6a2c0aff35378189a6fe4b94b06ac458af2"
+    },
+    {
+      "path": "experiments/pa_cvae_4city_replacement_20260822/scripts/prepare_replacement_data.py",
+      "sha256": "a09d7b30df2784af5e267efd8f6857927e98a94580d88705c4df766d0810c4c2"
+    },
+    {
+      "path": "experiments/pa_cvae_4city_replacement_20260822/scripts/build_replacement_study_core.py",
+      "sha256": "02bac60e14d65478d7595bc5a90d6d205c26171cb2b63eb01e00bff2d7576a7a"
+    },
+    {
+      "path": "experiments/pa_cvae_4city_replacement_20260822/scripts/run_replacement_pa_cvae.py",
+      "sha256": "71eeffcc8eb23bf0c3953b9265084da29e4195ed8bade033860a32da2cce0887"
+    },
+    {
+      "path": "experiments/pa_cvae_4city_replacement_septa_20260824/scripts/build_septa_replacement_data.py",
+      "sha256": "4e8ffccba7d5d133b6c38a89f9fc8fd5a7cb1f8b0e83b08977333c73b4115687"
+    }
+  ]
+}

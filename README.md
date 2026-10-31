@@ -1,6 +1,16 @@
-# Shanghai Multimodal Trip-Chain Samples
+# Multimodal Trip-Chain Data and Preprocessing
 
-上海多方式生成出行链样本，包含社会车辆、出租/网约车、公交与地铁四种主方式。
+多方式出行链研究的数据处理说明与上海生成样本，涵盖社会车辆、出租/网约车、公交与地铁四种主方式。
+
+## 数据与预处理说明
+
+- [DATASETS.md](DATASETS.md)：巴尔的摩、成都、上海与费城的数据来源、时间口径、研究单元和获取地址。
+- [DATA_PREPROCESSING.md](DATA_PREPROCESSING.md)：逐数据源的清洗、空间聚合、24 h 统计、缺失观测处理及样本导出流程。
+- [preprocessing_audit.json](preprocessing_audit.json)：已核查文件的数值缺失、零值、低完整性日期及处理脚本版本摘要。
+
+本仓库发布上海生成出行链样本，以及四城数据处理说明；四城原始数据请通过各数据提供方获取。年度平均日、工作日平均日与具体日期的 24 h 合计分别保留原有含义。
+
+For manuscript use: Detailed data preprocessing procedures, including the handling of missing observations, are documented in [DATA_PREPROCESSING.md](DATA_PREPROCESSING.md). Dataset descriptions and original access links are listed in [DATASETS.md](DATASETS.md).
 
 这些记录是模型生成的研究数据，不是真实个体轨迹。每条链表示一次 OD 出行及其链段，不表示一个人的全天活动日程。
 
@@ -60,4 +70,4 @@ print(legs[legs["chain_id"] == chain_id].sort_values("leg_index"))
 
 涉及的开放地图来源为 © OpenStreetMap contributors，参见 [OpenStreetMap copyright](https://www.openstreetmap.org/copyright)。来源及许可说明见 [NOTICE.md](NOTICE.md)。公开本样本不意味着其适用于运营决策或可独立证明生成结果的现实准确性。
 
-English: This repository shares existing model-generated Shanghai trip-chain samples and saved R5py itinerary outputs. These are research artifacts, not observed passenger trajectories. The transit timetable is synthetic. Requested modes and realized itinerary modes are explicitly distinguished.
+English: This repository documents preprocessing for four urban transport datasets and shares generated Shanghai trip-chain samples and saved R5py itinerary outputs. These samples are research artifacts, not observed passenger trajectories. The transit timetable is synthetic. Requested modes and realized itinerary modes are explicitly distinguished.
