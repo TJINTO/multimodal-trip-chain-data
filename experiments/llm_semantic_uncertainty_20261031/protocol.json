@@ -1,0 +1,79 @@
+{
+  "model": "qwen3:8b",
+  "model_digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+  "model_details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "qwen3",
+    "families": [
+      "qwen3"
+    ],
+    "parameter_size": "8.2B",
+    "quantization_level": "Q4_K_M",
+    "context_length": 40960,
+    "embedding_length": 4096
+  },
+  "repeats": 10,
+  "cases": 40,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "top_k": 20,
+  "repeat_penalty": 1.0,
+  "inherited_defaults_note": "Recorded run inherited top_k=20 and repeat_penalty=1 from the model manifest; made explicit in the replay script.",
+  "num_predict": 220,
+  "num_ctx": 4096,
+  "think": false,
+  "seed_rule": "20261031 + replicate_index*10000 + case_index; both zero-based",
+  "system_prompt": "You infer transport-relevant urban area profiles from supplied exogenous evidence.\nUse only the supplied population, population density and POI counts. Do not infer passenger counts, OD flows or accuracy metrics.\nReturn one JSON object. dominant_semantic must be one of the schema categories.\nproduction_multiplier and attraction_weight describe relative trip-generating and trip-attracting propensity, centered on 1, bounded 0.5 to 2.\nfree_flow_cost_factor describes relative access friction, centered on 1, bounded 0.8 to 1.2; smaller means easier access.\nCounts without detailed land-use evidence can support mixed_activity. Do not treat missing employment data as zero jobs.\nsummary must be a single English sentence of at most 25 words describing the area's dominant function and transport role. Do not state coefficients or passenger totals in summary.\nDo not provide hidden reasoning. Return the requested object only.",
+  "format": {
+    "type": "object",
+    "properties": {
+      "dominant_semantic": {
+        "type": "string",
+        "enum": [
+          "residential",
+          "employment",
+          "commercial",
+          "education",
+          "medical",
+          "transport_hub",
+          "industrial",
+          "recreation",
+          "tourism",
+          "food_nightlife",
+          "public_service",
+          "mixed_activity"
+        ]
+      },
+      "production_multiplier": {
+        "type": "number",
+        "minimum": 0.5,
+        "maximum": 2.0
+      },
+      "attraction_weight": {
+        "type": "number",
+        "minimum": 0.5,
+        "maximum": 2.0
+      },
+      "free_flow_cost_factor": {
+        "type": "number",
+        "minimum": 0.8,
+        "maximum": 1.2
+      },
+      "summary": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "dominant_semantic",
+      "production_multiplier",
+      "attraction_weight",
+      "free_flow_cost_factor",
+      "summary"
+    ],
+    "additionalProperties": false
+  },
+  "raw_logits_available": false,
+  "no_retry_on_invalid_output": true,
+  "source_reference": "https://github.com/trohit920/llm-uncertainty-quantification"
+}

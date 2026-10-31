@@ -1,0 +1,61 @@
+{
+  "valid_samples": 400,
+  "attempted_samples": 400,
+  "expected_samples": 400,
+  "units": 40,
+  "repeats": 10,
+  "all_expected_valid": true,
+  "summary_across_units": {
+    "label_entropy_nats": {
+      "mean": 0.30915181630295924,
+      "std": 0.37619293056679
+    },
+    "label_consistency": {
+      "mean": 0.8550000000000001,
+      "std": 0.1920870529146509
+    },
+    "lexical_entropy_nats": {
+      "mean": 1.8903573443932564,
+      "std": 0.31589959441216175
+    },
+    "production_multiplier_cv": {
+      "mean": 0.0638178043483119,
+      "std": 0.025270098666492324
+    },
+    "attraction_weight_cv": {
+      "mean": 0.10500013537383716,
+      "std": 0.11135261763895742
+    },
+    "free_flow_cost_factor_cv": {
+      "mean": 0.0441357790293609,
+      "std": 0.04898828307745396
+    },
+    "nli_entropy_nats": {
+      "mean": 1.4273684353243536,
+      "std": 0.3908579587651327
+    },
+    "nli_consistency": {
+      "mean": 0.43,
+      "std": 0.15721942856386648
+    },
+    "nli_cluster_count": {
+      "mean": 5.225,
+      "std": 1.6249260338195752
+    }
+  },
+  "nli_model": "cross-encoder/nli-deberta-v3-small",
+  "nli_revision": "fa2804872c3b4bd748f38c0185cc85775361e735",
+  "nli_id2label": {
+    "0": "contradiction",
+    "1": "entailment",
+    "2": "neutral"
+  },
+  "nli_clustering": "Greedy first-representative clustering in replicate order; equivalent only if each summary entails the other; classifier argmax label.",
+  "nli_order_dependence": "Greedy representative clustering can depend on sample order; assignments and directed scores are provided.",
+  "raw_logits_available": false,
+  "likelihood_weighted_entropy_computed": false,
+  "sampling_wall_seconds": 213.80645550000003,
+  "analysis_seconds": 9.0726467,
+  "metric_scope": "Empirical output consistency and fixed exogenous-prior sensitivity over selected units; not correctness, calibration, GT CPC, full-city or end-to-end PA-CVAE variance.",
+  "reference": "https://github.com/trohit920/llm-uncertainty-quantification"
+}

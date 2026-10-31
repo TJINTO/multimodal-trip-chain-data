@@ -12,6 +12,12 @@
 
 For manuscript use: Detailed data preprocessing procedures, including the handling of missing observations, are documented in [DATA_PREPROCESSING.md](DATA_PREPROCESSING.md). Dataset descriptions and original access links are listed in [DATASETS.md](DATASETS.md).
 
+## LLM 重复采样与不确定性实验
+
+[实验报告及完整结果](experiments/llm_semantic_uncertainty_20261031/README.md)：四城各10个空间单元，每个输入用 Qwen3-8B 重复生成10次，共400份有效画像；提供全部原始输出、提示词、种子、模型标识、NLI 聚类证据、数值参数波动与先验份额稳定性结果。
+
+整体结构化功能标签一致率为85.5%，NLI语义熵为1.427 ± 0.391 nats。固定外生先验模块中，重复输出间平均CPC为0.9690—0.9916；这里的CPC是先验份额的重复一致性，不是与真实流量比较的预测精度，也不是端到端 PA-CVAE 重复训练结果。该实验保留全部高、低不确定性样本。
+
 这些记录是模型生成的研究数据，不是真实个体轨迹。每条链表示一次 OD 出行及其链段，不表示一个人的全天活动日程。
 
 ## 下载

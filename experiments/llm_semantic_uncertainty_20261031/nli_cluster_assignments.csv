@@ -1,0 +1,401 @@
+case_id,replicate,summary,unique_answer_index,nli_cluster
+case_001,0,A mixed-use area with moderate residential density and significant retail and public transport access.,0,0
+case_001,1,A mixed-use area with moderate residential density and significant retail and public transport access.,0,0
+case_001,2,A mixed-use area with moderate residential density and significant retail and public transport access.,0,0
+case_001,3,A mixed-use area with moderate residential density and significant retail and public transport access.,0,0
+case_001,4,A mixed-use area with moderate population density and significant retail and public transport access.,1,0
+case_001,5,A mixed-use urban area with moderate population density and significant public transport access.,2,1
+case_001,6,A mixed-use area with moderate population density and significant retail and public transport presence.,3,0
+case_001,7,A mixed-use area with moderate population density and significant retail and public transport access.,1,0
+case_001,8,A mixed-use urban area with moderate density and significant public transport access.,4,2
+case_001,9,"A mixed-use area with strong retail and public transport focus, serving as a local commercial hub.",5,3
+case_002,0,A high-density public transport hub serving daily mobility needs in a dense urban core.,0,0
+case_002,1,A high-density public transport hub with significant service functions and limited commercial activity.,1,1
+case_002,2,A major transportation hub with high population density and significant public transport infrastructure.,2,2
+case_002,3,A dense urban area with high public transport access and limited commercial activity.,3,3
+case_002,4,A dense public transport hub serving daily commuter and transit needs in a high-density urban area.,4,0
+case_002,5,A high-density public transport hub serving daily commuter and service functions.,5,4
+case_002,6,A high-density public transport hub serving daily commuter and service functions.,5,4
+case_002,7,A high-density public transport hub serving daily commuter and service functions.,5,4
+case_002,8,A dense public transport hub serving daily commuter and regional transit needs.,6,5
+case_002,9,A high-density public transport hub serving daily mobility in Baltimore-MPO.,7,6
+case_003,0,A residential area with limited commercial activity and moderate population density.,0,0
+case_003,1,A residential area with limited commercial activity and moderate population density.,0,0
+case_003,2,A residential area with moderate amenities and limited commercial activity.,1,1
+case_003,3,A residential area with limited commercial activity and moderate population density.,0,0
+case_003,4,A residential area with limited commercial activity and moderate population density.,0,0
+case_003,5,A residential area with moderate access to amenities and public transport.,2,2
+case_003,6,A residential area with moderate accessibility and limited commercial activity.,3,1
+case_003,7,A residential area with moderate access to amenities and public transport.,2,2
+case_003,8,A residential area with moderate access to amenities and public transport.,2,2
+case_003,9,A residential area with limited commercial activity and moderate population density.,0,0
+case_004,0,Residential area with moderate transport access and limited commercial activity.,0,0
+case_004,1,A mixed-use area with moderate population density and diverse amenities supporting varied transport needs.,1,1
+case_004,2,A mixed-use urban area with moderate population density and diverse amenities.,2,2
+case_004,3,A residential area with moderate access to amenities and public transport.,3,3
+case_004,4,A mixed-use urban area with moderate population density and diverse amenities supporting varied transport needs.,4,1
+case_004,5,A residential area with moderate amenities and public transport access.,5,3
+case_004,6,Residential area with moderate accessibility and limited commercial activity.,6,0
+case_004,7,Residential area with moderate access to amenities and public transport.,7,3
+case_004,8,A residential area with moderate access to amenities and public transport.,3,3
+case_004,9,A residential area with moderate amenities and public transport access.,5,3
+case_005,0,A dense public transport hub serving daily commuter and service needs in Baltimore-MPO.,0,0
+case_005,1,A dense urban area with high public transport access and limited commercial activity.,1,1
+case_005,2,A dense urban area with high public transport access and low commercial activity.,2,1
+case_005,3,A dense urban area with significant public transport access and mixed land use functions.,3,2
+case_005,4,A high-density public transport hub serving daily mobility needs in a dense urban environment.,4,3
+case_005,5,A dense public transport hub serving daily transit needs in a compact urban area.,5,4
+case_005,6,A high-density public transport hub serving daily commuter and service functions.,6,5
+case_005,7,A daily transport hub with high public transport access and dense population.,7,3
+case_005,8,A high-density area with significant public transport infrastructure serving daily mobility needs.,8,0
+case_005,9,A high-density public transport hub serving daily commuter and service functions.,6,5
+case_006,0,A dense residential area with limited commercial and transport amenities.,0,0
+case_006,1,A dense residential area with limited commercial activity and moderate public transport access.,1,1
+case_006,2,A dense residential area with limited commercial activity and moderate public transport access.,1,1
+case_006,3,Residential area with moderate transport access and limited commercial activity.,2,2
+case_006,4,A dense residential area with limited commercial and transport amenities.,0,0
+case_006,5,A residential area with limited commercial activity and moderate population density.,3,3
+case_006,6,A dense residential area with limited commercial activity and moderate public transport access.,1,1
+case_006,7,A dense residential area with limited commercial activity and moderate public transport access.,1,1
+case_006,8,Residential area with moderate public transport access and high population density.,4,4
+case_006,9,Residential area with limited commercial activity and moderate transport access.,5,2
+case_007,0,A residential area with moderate retail and public transport access.,0,0
+case_007,1,A residential area with moderate commercial activity and limited public transport access.,1,1
+case_007,2,Residential area with moderate commercial activity and limited public transport access.,2,1
+case_007,3,Residential area with moderate commercial activity and limited public transport access.,2,1
+case_007,4,A residential area with moderate commercial activity and limited public transport access.,1,1
+case_007,5,Residential area with moderate commercial activity and limited public transport access.,2,1
+case_007,6,A residential area with moderate retail and public transport access.,0,0
+case_007,7,A residential area with moderate commercial activity and limited public transport access.,1,1
+case_007,8,"A residential area with moderate retail and public transport access, supporting daily motor vehicle trips.",3,2
+case_007,9,A residential area with moderate commercial activity and public transport access.,4,3
+case_008,0,A mixed-use area with strong public transport access and moderate population density.,0,0
+case_008,1,A mixed-use urban area with high population density and public transport access.,1,1
+case_008,2,A mixed-use urban area with high population density and significant public transport access.,2,2
+case_008,3,"A mixed-use area with significant retail and public transport access, serving as a transit-oriented hub.",3,3
+case_008,4,A mixed-use area with high public transport access and commercial activity.,4,4
+case_008,5,A mixed-use area with strong public transport access and moderate population density.,0,0
+case_008,6,A mixed-use area with strong public transport access and commercial activity.,5,4
+case_008,7,A mixed-use area with strong public transport access and commercial activity.,5,4
+case_008,8,A mixed-use area with moderate residential density and strong public transport access.,6,0
+case_008,9,A mixed-use area with high public transport access and moderate population density.,7,0
+case_009,0,A residential area with moderate public transport access and limited commercial activity.,0,0
+case_009,1,Residential area with moderate access to shops and public transport.,1,1
+case_009,2,A residential area with moderate access to amenities and public transport.,2,2
+case_009,3,A residential area with moderate commercial activity and public transport access.,3,3
+case_009,4,A residential area with moderate retail and public transport access.,4,1
+case_009,5,A residential area with moderate retail access and limited public transport connectivity.,5,4
+case_009,6,Residential area with moderate commercial activity and limited public transport access.,6,5
+case_009,7,Residential area with moderate accessibility and limited commercial activity.,7,6
+case_009,8,A residential area with moderate public transport access and limited commercial activity.,0,0
+case_009,9,A residential area with moderate retail access and public transport connectivity.,8,1
+case_010,0,A high-density public transport hub serving daily commuter and transit needs.,0,0
+case_010,1,A public service hub with high transport accessibility and dense population.,1,0
+case_010,2,A high-density public transport hub serving daily commuter and service functions.,2,0
+case_010,3,A dense public transport hub serving daily transit needs with high accessibility.,3,1
+case_010,4,A public service hub with high transport accessibility and dense population.,1,0
+case_010,5,A high-density public transport hub serving daily commuter and service functions.,2,0
+case_010,6,A mixed-use area with high public transport access and moderate population density.,4,2
+case_010,7,A high-density public transport hub serving daily commuter and service functions.,2,0
+case_010,8,A high-density public transport hub serving daily commuter and service functions.,2,0
+case_010,9,A mixed-use area with strong public transport access and moderate population density.,5,2
+case_011,0,"A mixed-use area with high density and ride-hailing focus, balancing residential and commercial activity.",0,0
+case_011,1,Chengdu-DIDI serves as a mixed-use area with moderate transport access and high population density.,1,1
+case_011,2,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing connectivity and moderate accessibility.,2,2
+case_011,3,Chengdu-DIDI is a mixed-use area with high population density and moderate ride-hailing activity.,3,3
+case_011,4,Chengdu-DIDI serves as a mixed-use hub with high population density and moderate accessibility for ride-hailing services.,4,4
+case_011,5,"A mixed-use area with high density and ride-hailing focus, balancing residential and commercial functions.",5,0
+case_011,6,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing connectivity and moderate accessibility.,2,2
+case_011,7,Chengdu-DIDI serves as a mixed-use hub with moderate access friction and higher trip generation.,6,5
+case_011,8,A high-density urban area with mixed land use and significant ride-hailing activity.,7,6
+case_011,9,Chengdu-DIDI serves as a mixed-use hub with high population density and ride-hailing activity.,8,7
+case_012,0,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.,0,0
+case_012,1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate transport access.,1,1
+case_012,2,"A mixed-use area with high population density and commercial activity, serving as a key transport node.",2,2
+case_012,3,A mixed-use urban area with high population density and significant ride-hailing activity.,3,3
+case_012,4,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_012,5,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_012,6,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_012,7,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_012,8,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_012,9,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,4,4
+case_013,0,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.,0,0
+case_013,1,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.,1,1
+case_013,2,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,2
+case_013,3,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,2
+case_013,4,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate access friction.,3,3
+case_013,5,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate transport access.,4,4
+case_013,6,Chengdu-DIDI serves as a mixed-use hub with significant ride-hailing activity and dense urban development.,5,5
+case_013,7,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,2
+case_013,8,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate accessibility.,6,4
+case_013,9,Chengdu-DIDI serves as a mixed-use hub with significant ride-hailing activity and commercial density.,7,6
+case_014,0,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and high population density.,0,0
+case_014,1,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.,1,1
+case_014,2,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.,1,1
+case_014,3,Chengdu-DIDI serves as a mixed-use hub with strong transport connectivity and moderate accessibility.,2,2
+case_014,4,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.,3,3
+case_014,5,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.,1,1
+case_014,6,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.,3,3
+case_014,7,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.,3,3
+case_014,8,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.,3,3
+case_014,9,Chengdu-DIDI serves as a mixed-use hub with strong transport connectivity and moderate accessibility.,2,2
+case_015,0,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_015,1,A mixed-use urban area with significant ride-hailing activity and public transport access.,1,1
+case_015,2,"A mixed-use urban area with high population density and diverse POI activity, serving as a transport hub.",2,0
+case_015,3,A mixed-use urban area with high population density and diverse POI activity centered around ride-hailing services.,3,2
+case_015,4,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_015,5,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_015,6,"A mixed-use area with high population density and diverse POI activity, serving as a key transport hub.",4,3
+case_015,7,A mixed-use urban area with high population density and diverse POI activity centered on ride-hailing services.,5,2
+case_015,8,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_015,9,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_016,0,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport node.",0,0
+case_016,1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and high population density.,1,1
+case_016,2,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,0
+case_016,3,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,0
+case_016,4,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,0
+case_016,5,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and dense urban activity.,3,2
+case_016,6,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.,4,3
+case_016,7,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and high population density.,1,1
+case_016,8,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,2,0
+case_016,9,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and dense urban development.,5,4
+case_017,0,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.,0,0
+case_017,1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,1,1
+case_017,2,A mixed-use urban area with significant ride-hailing activity and moderate transport access.,2,2
+case_017,3,Chengdu-DIDI serves as a mixed-use urban hub with strong ride-hailing activity and moderate transport access.,3,3
+case_017,4,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate accessibility.,4,2
+case_017,5,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.,0,0
+case_017,6,A mixed-use urban area with high population density and significant ride-hailing activity.,5,4
+case_017,7,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,1,1
+case_017,8,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and moderate transport access.,6,2
+case_017,9,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and moderate transport accessibility.,7,2
+case_018,0,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.,0,0
+case_018,1,Chengdu-DIDI is a mixed-use area with high transport access and moderate population density.,1,1
+case_018,2,A mixed-use urban area with high population density and significant public transport access.,2,2
+case_018,3,Chengdu-DIDI features mixed activity with strong public transport access and ride-hailing dominance.,3,3
+case_018,4,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.,0,0
+case_018,5,A mixed-use area with high population density and transport amenities supporting ride-hailing services.,4,4
+case_018,6,"A mixed-use area with high population density and public transport access, serving as a key ride-hailing hub.",5,5
+case_018,7,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.,0,0
+case_018,8,"A mixed-use area with high population density and public transport access, supporting ride-hailing demand.",6,6
+case_018,9,A mixed-use urban area with high population density and significant public transport access.,2,2
+case_019,0,"A mixed-use area with significant tourism and amenities, supporting ride-hailing demand.",0,0
+case_019,1,A mixed-use area with moderate population density and diverse POIs supporting ride-hailing demand.,1,1
+case_019,2,"A mixed-use area with a focus on tourism and amenities, serving as a transport hub for ride-hailing services.",2,0
+case_019,3,"A mixed-use area with commercial and tourism functions, supporting ride-hailing services.",3,2
+case_019,4,A mixed-use area with moderate population density and a blend of tourism and retail activities.,4,3
+case_019,5,"A mixed-use area with moderate residential and commercial activity, supporting ride-hailing services.",5,4
+case_019,6,A mixed-use area with moderate population density and a focus on amenities and tourism.,6,5
+case_019,7,A mixed-use area with moderate population density and diverse amenities supporting ride-hailing activity.,7,1
+case_019,8,A mixed-use area with moderate population density and diverse amenities supporting ride-hailing services.,8,1
+case_019,9,"A mixed-use area with commercial and tourism functions, supporting ride-hailing services.",3,2
+case_020,0,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_020,1,"A mixed-use urban area with high population density and diverse POI activity, supporting ride-hailing services.",1,1
+case_020,2,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport node.",2,0
+case_020,3,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_020,4,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.,3,1
+case_020,5,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_020,6,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.,0,0
+case_020,7,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.,3,1
+case_020,8,A mixed-use urban area with high population density and commercial activity supporting ride-hailing services.,4,2
+case_020,9,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport hub.",5,3
+case_021,0,A dense public transport hub with high service density and mixed land use.,0,0
+case_021,1,A mixed-use area with moderate density and public transport access.,1,1
+case_021,2,A mixed-use area with moderate population density and public transport access.,2,2
+case_021,3,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs.",3,3
+case_021,4,A mixed-use area with moderate population density and active public transport connectivity.,4,4
+case_021,5,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",5,5
+case_021,6,A major transportation hub with high public transit access and dense urban activity.,6,6
+case_021,7,A mixed-use area with moderate population density and public transport access.,2,2
+case_021,8,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",5,5
+case_021,9,A mixed-use area with moderate population density and public transport access.,2,2
+case_022,0,A major transportation hub with dense public transport infrastructure and high population density.,0,0
+case_022,1,A transit-focused area with high public transport access and mixed land use.,1,1
+case_022,2,A transit-focused area with high public transport density and mixed-use activity.,2,1
+case_022,3,A transit-centric area with high public transport access and dense population serving regional mobility needs.,3,0
+case_022,4,A high-density public transport hub with significant amenities and service functions.,4,2
+case_022,5,A transit-centric area with high public transport access and mixed-use activity.,5,1
+case_022,6,A major transportation hub with dense public transit infrastructure and high population density.,6,0
+case_022,7,A high-density public transport hub with significant amenities and rail infrastructure.,7,3
+case_022,8,A major transportation hub with dense public transit infrastructure and mixed land use.,8,1
+case_022,9,A high-density public transport hub with significant amenities and service functions.,4,2
+case_023,0,A major transportation hub with high rail and public transport density supporting regional connectivity.,0,0
+case_023,1,A dense industrial and transport-focused area with high rail and public transport activity.,1,1
+case_023,2,A dense transport-focused area with significant rail and public transport infrastructure.,2,2
+case_023,3,Industrial hub with high transport connectivity and dense population.,3,3
+case_023,4,Industrial hub with high transport connectivity and dense population.,3,3
+case_023,5,A major transportation hub with dense rail infrastructure and industrial activity.,4,4
+case_023,6,"A major transport hub with high rail and public transport density, serving as a key connectivity node.",5,0
+case_023,7,A mixed-use area with significant rail infrastructure and industrial activity.,6,5
+case_023,8,"A dense transport hub with high rail and public transport presence, serving as a key transit node.",7,0
+case_023,9,"A major transportation hub with high rail and public transport density, serving as a key transit node.",8,2
+case_024,0,A high-density public transport hub with strong rail connectivity and mixed land use.,0,0
+case_024,1,A dense public transport hub with high service density and limited commercial activity.,1,1
+case_024,2,A high-density public transport hub with significant rail infrastructure and service-oriented activity.,2,2
+case_024,3,A high-density public transport hub with significant rail infrastructure and mixed land use.,3,0
+case_024,4,A dense urban area with strong public transport focus and high population density.,4,3
+case_024,5,A high-density public transport hub with significant rail infrastructure and service-oriented activity.,2,2
+case_024,6,A major transportation hub with high public transit access and dense urban development.,5,4
+case_024,7,A transit-centric area with high public transport density and dense population serving regional mobility needs.,6,4
+case_024,8,A transit-focused area with high public transport density and dense population serving regional mobility needs.,7,4
+case_024,9,A transit-focused area with high public transport density and dense urban development.,8,4
+case_025,0,A major transport hub with high population density and significant rail infrastructure.,0,0
+case_025,1,A high-density transport hub with strong rail connectivity and limited commercial activity.,1,1
+case_025,2,A high-density transport hub with significant rail infrastructure and minimal commercial activity.,2,1
+case_025,3,A major transportation hub with high density and rail infrastructure supporting regional connectivity.,3,2
+case_025,4,A high-density transport hub with significant railway infrastructure and bus connectivity.,4,3
+case_025,5,A major transportation hub with high population density and rail infrastructure.,5,4
+case_025,6,A dense transport hub with high rail infrastructure and significant public transit access.,6,5
+case_025,7,A dense transportation hub with high rail infrastructure and limited commercial activity.,7,1
+case_025,8,A dense transport-focused area with high rail infrastructure and moderate population.,8,6
+case_025,9,A major rail transport hub with high population density and significant public transport infrastructure.,9,7
+case_026,0,A dense public transport hub with high accessibility and mixed land use.,0,0
+case_026,1,A mixed-use area with moderate population density and bus-focused transport connectivity.,1,1
+case_026,2,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs.",2,2
+case_026,3,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",3,3
+case_026,4,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs.",2,2
+case_026,5,A mixed-use area with moderate population density and public transport access.,4,4
+case_026,6,A mixed-use area with moderate population density and public transport access.,4,4
+case_026,7,A dense public transport hub serving a high population with limited commercial activity.,5,5
+case_026,8,A dense public transport hub with high accessibility and mixed land use functions.,6,0
+case_026,9,A high-density public transport hub with significant amenities and low industrial activity.,7,6
+case_027,0,A mixed-use area with moderate population density and diverse amenities serving as a transit-oriented hub.,0,0
+case_027,1,"A mixed-use area with moderate population density and diverse amenities, supporting bus-based mobility.",1,1
+case_027,2,"A mixed-use area with moderate density and balanced retail, services, and public transport access.",2,2
+case_027,3,"A mixed-use area with moderate residential and commercial activity, serving as a transit-oriented hub.",3,1
+case_027,4,"A mixed-use area with moderate density and retail focus, serving as a transit-oriented hub.",4,3
+case_027,5,"A mixed-use area with commercial and transit hubs, supporting local and regional connectivity.",5,4
+case_027,6,A mixed-use area with high population density and diverse amenities supporting bus-based mobility.,6,5
+case_027,7,A mixed-use urban area with moderate density and strong public transport access.,7,6
+case_027,8,A mixed-use area with moderate density and bus-focused transport connectivity.,8,7
+case_027,9,"A mixed-use area with moderate residential and commercial activity, supported by bus transit.",9,1
+case_028,0,A mixed-use area with moderate population density and diverse amenities supporting bus-based mobility.,0,0
+case_028,1,"A mixed-use area with moderate density and diverse amenities, serving as a transit-oriented hub.",1,1
+case_028,2,"A mixed-use area with high population density and commercial activity, serving as a key transport node.",2,2
+case_028,3,"A mixed-use urban area with moderate residential and commercial activity, serving as a transit-oriented hub.",3,3
+case_028,4,"A mixed-use area with strong retail and public transport access, supporting diverse mobility needs.",4,4
+case_028,5,"A mixed-use area with high population density and retail focus, serving as a transit-oriented hub.",5,5
+case_028,6,"A mixed-use area with high population density and commercial activity, serving as a key transit hub.",6,2
+case_028,7,A mixed-use urban area with high population density and diverse amenities supporting transit-oriented development.,7,6
+case_028,8,"A mixed-use urban area with moderate residential and commercial activity, serving as a transit-oriented hub.",3,3
+case_028,9,A mixed-use urban area with high population density and diverse amenities serving as a key transit hub.,8,6
+case_029,0,A mixed-use area with high population density and public transport access.,0,0
+case_029,1,A mixed-use urban area with moderate density and significant public transport access.,1,1
+case_029,2,A mixed-use area with moderate population density and significant public transport access.,2,2
+case_029,3,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",3,3
+case_029,4,A mixed-use area with strong public transport access and moderate population density.,4,2
+case_029,5,A mixed-use area with high population density and public transport access.,0,0
+case_029,6,"A mixed-use area with moderate density and transit access, serving both residential and commercial functions.",5,4
+case_029,7,A mixed-use area with moderate population density and significant public transport access.,2,2
+case_029,8,A mixed-use area with high population density and significant public transport access.,6,5
+case_029,9,A mixed-use urban area with significant public transport access and moderate population density.,7,2
+case_030,0,A mixed-use area with moderate population density and public transport access.,0,0
+case_030,1,A mixed-use area with moderate population density and significant public transport access.,1,1
+case_030,2,"A mixed-use area with moderate density and public transport access, serving residential and commercial functions.",2,2
+case_030,3,A mixed-use area with moderate population density and significant public transport access.,1,1
+case_030,4,A mixed-use area with moderate population density and significant public transport access.,1,1
+case_030,5,A mixed-use area with moderate density and moderate public transport access.,3,3
+case_030,6,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",4,4
+case_030,7,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub.",4,4
+case_030,8,A mixed-use area with moderate population density and significant public transport access.,1,1
+case_030,9,A mixed-use area with moderate population density and public transport access.,0,0
+case_031,0,A dense urban hub with strong metro connectivity and mixed land use.,0,0
+case_031,1,A major metro-centric transport hub with high population density and public transport infrastructure.,1,1
+case_031,2,A major metro transport hub with high public transport and population density.,2,2
+case_031,3,Shanghai-MetroFlow is a major transport hub with high metro accessibility and dense urban activity.,3,1
+case_031,4,A major metro transport hub with high public transport access and dense population.,4,1
+case_031,5,A major metro-centric transport hub with high population density and public transport infrastructure.,1,1
+case_031,6,A major metro-centric transport hub with high population density and public transport infrastructure.,1,1
+case_031,7,A high-density metro hub with strong public transport and amenity focus.,5,1
+case_031,8,A high-density metro hub with strong public transport focus and mixed commercial activity.,6,3
+case_031,9,Shanghai-MetroFlow serves as a major transport hub with high public transport accessibility.,7,4
+case_032,0,A major metro-centric transport hub with high public transport density and dense urban population.,0,0
+case_032,1,A high-density metro hub with extensive public transport infrastructure serving a dense urban population.,1,1
+case_032,2,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,2,2
+case_032,3,A major metro transport hub with high public transport density and mixed land use.,3,3
+case_032,4,A high-density metro hub serving public transport and commercial functions with strong connectivity.,4,4
+case_032,5,A dense metro hub with high public transport access and mixed land use.,5,5
+case_032,6,A high-density public transport hub serving daily metro passengers with extensive transit infrastructure.,6,6
+case_032,7,A high-density metro hub serving public transport and transit-oriented development.,7,7
+case_032,8,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,2,2
+case_032,9,Shanghai-MetroFlow is a major transport hub with dense public transport infrastructure.,8,7
+case_033,0,A high-density public transport hub with significant metro infrastructure and service-oriented activity.,0,0
+case_033,1,Shanghai-MetroFlow is a major transport hub with dense public transit infrastructure and high population density.,1,1
+case_033,2,A major metro-centric transport hub with high public transport and population density.,2,1
+case_033,3,A major metro-centric transport hub with high public transit access and dense urban activity.,3,0
+case_033,4,A major metro-centric transport hub with high public transit access and dense urban activity.,3,0
+case_033,5,A high-density public transport hub with extensive metro infrastructure and mixed land use.,4,2
+case_033,6,A high-density public transport hub with extensive metro infrastructure and service-oriented amenities.,5,0
+case_033,7,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,6,0
+case_033,8,A high-density public transport hub with extensive metro infrastructure and mixed land use.,4,2
+case_033,9,A high-density public transport hub with significant metro infrastructure and service-oriented activity.,0,0
+case_034,0,A high-density metro station area with strong public transport focus and limited commercial activity.,0,0
+case_034,1,A high-density metro hub serving public transport and transit-oriented development.,1,1
+case_034,2,A high-density metro hub serving public transport and transit-oriented development.,1,1
+case_034,3,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.,2,2
+case_034,4,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.,2,2
+case_034,5,A major metro transport hub with high public transport density and dense population.,3,3
+case_034,6,A high-density public transport hub with extensive metro infrastructure serving daily commuter needs.,4,2
+case_034,7,A high-density metro station area with strong public transport focus and mixed land use.,5,4
+case_034,8,A high-density metro hub with extensive public transport infrastructure serving daily transit needs.,6,2
+case_034,9,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.,2,2
+case_035,0,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_035,1,A high-density public transport hub with significant metro connectivity and amenities.,1,0
+case_035,2,A high-density public transport hub with significant metro connectivity and service-oriented functions.,2,0
+case_035,3,A high-density public transport hub with significant metro connectivity and service-oriented activity.,3,0
+case_035,4,A high-density metro hub serving public transport and amenities with strong connectivity.,4,1
+case_035,5,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_035,6,A dense public transport hub with high population density and extensive metro connectivity.,5,0
+case_035,7,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_035,8,A densely populated metro-centric area with high amenity and commercial activity.,6,2
+case_035,9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_036,0,"A dense urban area with high population and mixed land uses, serving as a major metro transit hub.",0,0
+case_036,1,"A vibrant urban core with high density and mixed land use, serving as a major metro transit hub.",1,0
+case_036,2,A dense urban area with high population and mixed land uses centered around metro transport.,2,1
+case_036,3,"A dense urban area with mixed commercial and transport functions, supporting metro connectivity.",3,2
+case_036,4,"A high-density urban area with mixed commercial and transit functions, supporting metro-centric mobility.",4,0
+case_036,5,"A bustling urban center with high population density and diverse POI activity, serving as a key metro transport hub.",5,0
+case_036,6,"A high-density urban area with mixed commercial and transport functions, serving as a metro hub.",6,1
+case_036,7,"A dense urban area with high population and mixed land use, serving as a metro hub for both residential and commercial activities.",7,3
+case_036,8,"A dense urban area with high population and mixed land use, serving as a key metro hub.",8,0
+case_036,9,"A dense urban area with strong commercial and public transport activity, serving as a key metro hub.",9,4
+case_037,0,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_037,1,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_037,2,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_037,3,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_037,4,A dense metro-centric area with high public transport access and mixed-use development.,1,1
+case_037,5,Shanghai-MetroFlow is a major transport hub with high metro connectivity and dense population.,2,2
+case_037,6,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_037,7,A dense urban hub with strong public transport connectivity and mixed land use.,3,1
+case_037,8,Shanghai-MetroFlow is a major transport hub with high metro connectivity and dense urban activity.,4,3
+case_037,9,A dense urban area with high metro connectivity and mixed land use.,5,1
+case_038,0,A dense urban area with mixed land uses and strong public transport connectivity.,0,0
+case_038,1,A high-density public transport hub with significant metro connectivity and service-oriented functions.,1,1
+case_038,2,A major metro transit hub with high population density and extensive public transport infrastructure.,2,1
+case_038,3,A major metro hub with high public transport access and dense urban activity.,3,1
+case_038,4,A major metro-centric transport hub with high population density and public transport infrastructure.,4,1
+case_038,5,A high-density public transport hub with significant metro connectivity and service-oriented activity.,5,1
+case_038,6,A major metro-centric transport hub with high population density and significant public transport infrastructure.,6,1
+case_038,7,A mixed-use area with strong public transport connectivity and moderate residential density.,7,2
+case_038,8,A major metro hub with high population density and extensive public transport infrastructure.,8,1
+case_038,9,A high-density public transport hub with significant metro connectivity and mixed land use.,9,0
+case_039,0,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,0,0
+case_039,1,A major metro-centric transport hub with high population density and significant public transport infrastructure.,1,0
+case_039,2,A dense metro-centric area with high public transport access and mixed land use.,2,1
+case_039,3,A dense urban area with high public transport access and mixed land use functions.,3,1
+case_039,4,A dense urban area with strong metro connectivity and mixed land use functions.,4,1
+case_039,5,Shanghai-MetroFlow serves as a major transport hub with high public transport access and dense urban activity.,5,0
+case_039,6,A high-density public transport hub with significant amenities and commercial activity.,6,0
+case_039,7,A high-density public transport hub with significant amenities and commercial activity.,6,0
+case_039,8,A high-density urban area with mixed land use and strong public transport connectivity.,7,1
+case_039,9,A dense urban area with strong metro connectivity and mixed land use functions.,4,1
+case_040,0,A high-density public transport hub with significant metro infrastructure and service-oriented activity.,0,0
+case_040,1,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,1,0
+case_040,2,A major metro-centric transport hub with high population density and extensive public transport infrastructure.,1,0
+case_040,3,A major metro hub with high population density and extensive public transport infrastructure.,2,1
+case_040,4,A high-density metro hub with extensive public transport infrastructure and mixed land use.,3,2
+case_040,5,A dense urban hub with strong metro connectivity and mixed land use functions.,4,2
+case_040,6,A high-density metro station area with strong public transport focus and mixed land use.,5,2
+case_040,7,A high-density metro hub with extensive public transport infrastructure serving a dense urban population.,6,3
+case_040,8,A high-density metro hub serving public transport and administrative functions with strong connectivity.,7,4
+case_040,9,A high-density metro station area with strong public transport focus and mixed land use.,5,2

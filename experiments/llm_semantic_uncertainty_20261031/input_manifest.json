@@ -1,0 +1,11 @@
+{
+  "cases": 40,
+  "per_city": 10,
+  "selection": "Deterministic farthest-point coverage in standardized log1p exogenous feature space; first point nearest feature-space mean.",
+  "ground_truth_used": false,
+  "employment_fields_used": false,
+  "ontology_labels_exposed_to_llm": false,
+  "downstream_scope": "Frozen exogenous prior score module, normalized over 10 selected units per city; no PA-CVAE retraining or GT accuracy comparison.",
+  "project_score_function": "run_unified_prior_guided_neural_generator._exogenous_prior_unit_score",
+  "project_score_source_sha256": "0105b7bb46f60c9abdd47faeeb3da6a2c0aff35378189a6fe4b94b06ac458af2"
+}

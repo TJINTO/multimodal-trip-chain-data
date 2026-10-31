@@ -1,0 +1,401 @@
+case_id,city,replicate,dominant_semantic,production_multiplier,attraction_weight,free_flow_cost_factor,summary
+case_001,Baltimore-MPO,0,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate residential density and significant retail and public transport access.
+case_001,Baltimore-MPO,1,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate residential density and significant retail and public transport access.
+case_001,Baltimore-MPO,2,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate residential density and significant retail and public transport access.
+case_001,Baltimore-MPO,3,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate residential density and significant retail and public transport access.
+case_001,Baltimore-MPO,4,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and significant retail and public transport access.
+case_001,Baltimore-MPO,5,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with moderate population density and significant public transport access.
+case_001,Baltimore-MPO,6,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and significant retail and public transport presence.
+case_001,Baltimore-MPO,7,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and significant retail and public transport access.
+case_001,Baltimore-MPO,8,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with moderate density and significant public transport access.
+case_001,Baltimore-MPO,9,mixed_activity,1.3,0.8,1.1,"A mixed-use area with strong retail and public transport focus, serving as a local commercial hub."
+case_002,Baltimore-MPO,0,public_service,1.2,0.8,1.1,A high-density public transport hub serving daily mobility needs in a dense urban core.
+case_002,Baltimore-MPO,1,public_service,1.5,0.8,1.1,A high-density public transport hub with significant service functions and limited commercial activity.
+case_002,Baltimore-MPO,2,transport_hub,1.5,1.2,0.8,A major transportation hub with high population density and significant public transport infrastructure.
+case_002,Baltimore-MPO,3,public_service,1.5,0.8,1.1,A dense urban area with high public transport access and limited commercial activity.
+case_002,Baltimore-MPO,4,public_service,1.5,0.8,1.1,A dense public transport hub serving daily commuter and transit needs in a high-density urban area.
+case_002,Baltimore-MPO,5,public_service,1.2,0.8,1.1,A high-density public transport hub serving daily commuter and service functions.
+case_002,Baltimore-MPO,6,public_service,1.2,0.8,1.1,A high-density public transport hub serving daily commuter and service functions.
+case_002,Baltimore-MPO,7,public_service,1.2,0.8,1.1,A high-density public transport hub serving daily commuter and service functions.
+case_002,Baltimore-MPO,8,public_service,1.2,0.8,1.1,A dense public transport hub serving daily commuter and regional transit needs.
+case_002,Baltimore-MPO,9,public_service,1.2,0.8,1.1,A high-density public transport hub serving daily mobility in Baltimore-MPO.
+case_003,Baltimore-MPO,0,residential,1.2,0.8,1.1,A residential area with limited commercial activity and moderate population density.
+case_003,Baltimore-MPO,1,residential,1.2,0.8,1.1,A residential area with limited commercial activity and moderate population density.
+case_003,Baltimore-MPO,2,residential,1.2,0.8,1.1,A residential area with moderate amenities and limited commercial activity.
+case_003,Baltimore-MPO,3,residential,1.2,0.8,1.1,A residential area with limited commercial activity and moderate population density.
+case_003,Baltimore-MPO,4,residential,1.2,0.8,1.1,A residential area with limited commercial activity and moderate population density.
+case_003,Baltimore-MPO,5,residential,1.2,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_003,Baltimore-MPO,6,residential,1.1,0.9,1.1,A residential area with moderate accessibility and limited commercial activity.
+case_003,Baltimore-MPO,7,residential,1.2,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_003,Baltimore-MPO,8,residential,1.2,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_003,Baltimore-MPO,9,residential,1.2,0.8,1.1,A residential area with limited commercial activity and moderate population density.
+case_004,Baltimore-MPO,0,residential,1.2,0.8,1.1,Residential area with moderate transport access and limited commercial activity.
+case_004,Baltimore-MPO,1,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and diverse amenities supporting varied transport needs.
+case_004,Baltimore-MPO,2,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with moderate population density and diverse amenities.
+case_004,Baltimore-MPO,3,residential,1.1,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_004,Baltimore-MPO,4,mixed_activity,1.2,0.8,1.1,A mixed-use urban area with moderate population density and diverse amenities supporting varied transport needs.
+case_004,Baltimore-MPO,5,residential,1.2,0.8,1.1,A residential area with moderate amenities and public transport access.
+case_004,Baltimore-MPO,6,residential,1.1,0.9,1.1,Residential area with moderate accessibility and limited commercial activity.
+case_004,Baltimore-MPO,7,residential,0.8,1.2,1.1,Residential area with moderate access to amenities and public transport.
+case_004,Baltimore-MPO,8,residential,1.2,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_004,Baltimore-MPO,9,residential,1.2,0.8,1.1,A residential area with moderate amenities and public transport access.
+case_005,Baltimore-MPO,0,public_service,1.4,0.8,1.1,A dense public transport hub serving daily commuter and service needs in Baltimore-MPO.
+case_005,Baltimore-MPO,1,public_service,1.5,0.8,1.1,A dense urban area with high public transport access and limited commercial activity.
+case_005,Baltimore-MPO,2,public_service,1.5,0.8,1.1,A dense urban area with high public transport access and low commercial activity.
+case_005,Baltimore-MPO,3,mixed_activity,1.2,0.8,1.1,A dense urban area with significant public transport access and mixed land use functions.
+case_005,Baltimore-MPO,4,public_service,1.5,0.8,1.1,A high-density public transport hub serving daily mobility needs in a dense urban environment.
+case_005,Baltimore-MPO,5,public_service,1.4,0.8,1.1,A dense public transport hub serving daily transit needs in a compact urban area.
+case_005,Baltimore-MPO,6,public_service,1.8,0.5,0.8,A high-density public transport hub serving daily commuter and service functions.
+case_005,Baltimore-MPO,7,transport_hub,1.6,0.8,0.9,A daily transport hub with high public transport access and dense population.
+case_005,Baltimore-MPO,8,public_service,1.2,0.8,1.1,A high-density area with significant public transport infrastructure serving daily mobility needs.
+case_005,Baltimore-MPO,9,public_service,1.5,0.8,1.1,A high-density public transport hub serving daily commuter and service functions.
+case_006,Baltimore-MPO,0,residential,1.4,0.8,1.1,A dense residential area with limited commercial and transport amenities.
+case_006,Baltimore-MPO,1,residential,1.2,0.8,1.1,A dense residential area with limited commercial activity and moderate public transport access.
+case_006,Baltimore-MPO,2,residential,1.2,0.8,1.1,A dense residential area with limited commercial activity and moderate public transport access.
+case_006,Baltimore-MPO,3,residential,1.4,0.8,1.1,Residential area with moderate transport access and limited commercial activity.
+case_006,Baltimore-MPO,4,residential,1.2,0.8,1.1,A dense residential area with limited commercial and transport amenities.
+case_006,Baltimore-MPO,5,residential,1.3,0.7,1.1,A residential area with limited commercial activity and moderate population density.
+case_006,Baltimore-MPO,6,residential,1.2,0.8,1.1,A dense residential area with limited commercial activity and moderate public transport access.
+case_006,Baltimore-MPO,7,residential,1.3,0.8,1.1,A dense residential area with limited commercial activity and moderate public transport access.
+case_006,Baltimore-MPO,8,residential,1.2,0.8,1.1,Residential area with moderate public transport access and high population density.
+case_006,Baltimore-MPO,9,residential,1.4,0.8,1.1,Residential area with limited commercial activity and moderate transport access.
+case_007,Baltimore-MPO,0,residential,1.3,0.7,1.1,A residential area with moderate retail and public transport access.
+case_007,Baltimore-MPO,1,residential,1.3,0.8,1.1,A residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,2,residential,1.2,0.8,1.1,Residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,3,residential,1.3,0.8,1.1,Residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,4,residential,1.2,0.8,1.1,A residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,5,residential,1.2,0.8,1.1,Residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,6,residential,1.2,0.8,1.1,A residential area with moderate retail and public transport access.
+case_007,Baltimore-MPO,7,residential,1.2,0.8,1.1,A residential area with moderate commercial activity and limited public transport access.
+case_007,Baltimore-MPO,8,residential,1.2,0.8,1.1,"A residential area with moderate retail and public transport access, supporting daily motor vehicle trips."
+case_007,Baltimore-MPO,9,residential,1.2,0.8,1.1,A residential area with moderate commercial activity and public transport access.
+case_008,Baltimore-MPO,0,mixed_activity,1.4,0.8,1.1,A mixed-use area with strong public transport access and moderate population density.
+case_008,Baltimore-MPO,1,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and public transport access.
+case_008,Baltimore-MPO,2,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and significant public transport access.
+case_008,Baltimore-MPO,3,mixed_activity,1.3,0.8,1.1,"A mixed-use area with significant retail and public transport access, serving as a transit-oriented hub."
+case_008,Baltimore-MPO,4,mixed_activity,1.4,0.8,1.1,A mixed-use area with high public transport access and commercial activity.
+case_008,Baltimore-MPO,5,mixed_activity,1.4,0.8,1.1,A mixed-use area with strong public transport access and moderate population density.
+case_008,Baltimore-MPO,6,mixed_activity,1.3,0.8,1.1,A mixed-use area with strong public transport access and commercial activity.
+case_008,Baltimore-MPO,7,mixed_activity,1.4,0.8,1.1,A mixed-use area with strong public transport access and commercial activity.
+case_008,Baltimore-MPO,8,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate residential density and strong public transport access.
+case_008,Baltimore-MPO,9,mixed_activity,1.4,0.8,1.1,A mixed-use area with high public transport access and moderate population density.
+case_009,Baltimore-MPO,0,residential,1.2,0.8,1.1,A residential area with moderate public transport access and limited commercial activity.
+case_009,Baltimore-MPO,1,residential,1.3,0.8,1.1,Residential area with moderate access to shops and public transport.
+case_009,Baltimore-MPO,2,residential,1.2,0.8,1.1,A residential area with moderate access to amenities and public transport.
+case_009,Baltimore-MPO,3,residential,1.2,0.8,1.1,A residential area with moderate commercial activity and public transport access.
+case_009,Baltimore-MPO,4,residential,1.2,0.8,1.1,A residential area with moderate retail and public transport access.
+case_009,Baltimore-MPO,5,residential,1.2,0.8,1.1,A residential area with moderate retail access and limited public transport connectivity.
+case_009,Baltimore-MPO,6,residential,1.2,0.8,1.1,Residential area with moderate commercial activity and limited public transport access.
+case_009,Baltimore-MPO,7,residential,1.2,0.8,1.1,Residential area with moderate accessibility and limited commercial activity.
+case_009,Baltimore-MPO,8,residential,1.2,0.8,1.1,A residential area with moderate public transport access and limited commercial activity.
+case_009,Baltimore-MPO,9,residential,1.3,0.8,1.1,A residential area with moderate retail access and public transport connectivity.
+case_010,Baltimore-MPO,0,public_service,1.8,0.7,1.1,A high-density public transport hub serving daily commuter and transit needs.
+case_010,Baltimore-MPO,1,public_service,1.6,0.8,0.9,A public service hub with high transport accessibility and dense population.
+case_010,Baltimore-MPO,2,public_service,1.6,0.8,0.9,A high-density public transport hub serving daily commuter and service functions.
+case_010,Baltimore-MPO,3,public_service,1.6,0.8,1.1,A dense public transport hub serving daily transit needs with high accessibility.
+case_010,Baltimore-MPO,4,public_service,1.5,0.8,1.1,A public service hub with high transport accessibility and dense population.
+case_010,Baltimore-MPO,5,public_service,1.6,0.8,0.9,A high-density public transport hub serving daily commuter and service functions.
+case_010,Baltimore-MPO,6,mixed_activity,1.4,0.8,1.1,A mixed-use area with high public transport access and moderate population density.
+case_010,Baltimore-MPO,7,public_service,1.6,0.8,1.1,A high-density public transport hub serving daily commuter and service functions.
+case_010,Baltimore-MPO,8,public_service,1.6,0.8,0.9,A high-density public transport hub serving daily commuter and service functions.
+case_010,Baltimore-MPO,9,mixed_activity,1.4,0.8,1.1,A mixed-use area with strong public transport access and moderate population density.
+case_011,Chengdu-DIDI,0,mixed_activity,1.3,0.8,1.1,"A mixed-use area with high density and ride-hailing focus, balancing residential and commercial activity."
+case_011,Chengdu-DIDI,1,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use area with moderate transport access and high population density.
+case_011,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing connectivity and moderate accessibility.
+case_011,Chengdu-DIDI,3,mixed_activity,1.2,0.8,1.1,Chengdu-DIDI is a mixed-use area with high population density and moderate ride-hailing activity.
+case_011,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and moderate accessibility for ride-hailing services.
+case_011,Chengdu-DIDI,5,mixed_activity,1.4,0.8,1.1,"A mixed-use area with high density and ride-hailing focus, balancing residential and commercial functions."
+case_011,Chengdu-DIDI,6,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing connectivity and moderate accessibility.
+case_011,Chengdu-DIDI,7,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with moderate access friction and higher trip generation.
+case_011,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,A high-density urban area with mixed land use and significant ride-hailing activity.
+case_011,Chengdu-DIDI,9,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and ride-hailing activity.
+case_012,Chengdu-DIDI,0,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.
+case_012,Chengdu-DIDI,1,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate transport access.
+case_012,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,"A mixed-use area with high population density and commercial activity, serving as a key transport node."
+case_012,Chengdu-DIDI,3,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with high population density and significant ride-hailing activity.
+case_012,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_012,Chengdu-DIDI,5,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_012,Chengdu-DIDI,6,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_012,Chengdu-DIDI,7,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_012,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_012,Chengdu-DIDI,9,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_013,Chengdu-DIDI,0,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.
+case_013,Chengdu-DIDI,1,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.
+case_013,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_013,Chengdu-DIDI,3,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_013,Chengdu-DIDI,4,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate access friction.
+case_013,Chengdu-DIDI,5,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate transport access.
+case_013,Chengdu-DIDI,6,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with significant ride-hailing activity and dense urban development.
+case_013,Chengdu-DIDI,7,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_013,Chengdu-DIDI,8,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate accessibility.
+case_013,Chengdu-DIDI,9,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with significant ride-hailing activity and commercial density.
+case_014,Chengdu-DIDI,0,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and high population density.
+case_014,Chengdu-DIDI,1,mixed_activity,1.4,0.8,0.9,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.
+case_014,Chengdu-DIDI,2,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.
+case_014,Chengdu-DIDI,3,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong transport connectivity and moderate accessibility.
+case_014,Chengdu-DIDI,4,mixed_activity,1.4,0.8,1.1,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.
+case_014,Chengdu-DIDI,5,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong public transport connectivity and moderate accessibility.
+case_014,Chengdu-DIDI,6,mixed_activity,1.5,0.8,1.1,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.
+case_014,Chengdu-DIDI,7,mixed_activity,1.4,0.8,0.9,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.
+case_014,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,A mixed-use area with high population density and transport infrastructure supporting ride-hailing services.
+case_014,Chengdu-DIDI,9,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong transport connectivity and moderate accessibility.
+case_015,Chengdu-DIDI,0,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_015,Chengdu-DIDI,1,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with significant ride-hailing activity and public transport access.
+case_015,Chengdu-DIDI,2,mixed_activity,1.6,0.8,0.9,"A mixed-use urban area with high population density and diverse POI activity, serving as a transport hub."
+case_015,Chengdu-DIDI,3,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity centered around ride-hailing services.
+case_015,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_015,Chengdu-DIDI,5,mixed_activity,1.5,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_015,Chengdu-DIDI,6,mixed_activity,1.4,0.8,1.1,"A mixed-use area with high population density and diverse POI activity, serving as a key transport hub."
+case_015,Chengdu-DIDI,7,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity centered on ride-hailing services.
+case_015,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_015,Chengdu-DIDI,9,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,0,mixed_activity,1.6,1.2,0.9,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport node."
+case_016,Chengdu-DIDI,1,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and high population density.
+case_016,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,3,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,4,mixed_activity,1.5,1.2,0.9,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,5,mixed_activity,1.4,0.8,0.9,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and dense urban activity.
+case_016,Chengdu-DIDI,6,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,7,mixed_activity,1.5,1.2,0.9,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and high population density.
+case_016,Chengdu-DIDI,8,mixed_activity,1.4,0.8,0.9,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_016,Chengdu-DIDI,9,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and dense urban development.
+case_017,Chengdu-DIDI,0,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.
+case_017,Chengdu-DIDI,1,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_017,Chengdu-DIDI,2,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with significant ride-hailing activity and moderate transport access.
+case_017,Chengdu-DIDI,3,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use urban hub with strong ride-hailing activity and moderate transport access.
+case_017,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing demand and moderate accessibility.
+case_017,Chengdu-DIDI,5,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI is a mixed-use area with high population density and diverse POI activity.
+case_017,Chengdu-DIDI,6,mixed_activity,1.2,0.8,1.1,A mixed-use urban area with high population density and significant ride-hailing activity.
+case_017,Chengdu-DIDI,7,mixed_activity,1.2,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_017,Chengdu-DIDI,8,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and moderate transport access.
+case_017,Chengdu-DIDI,9,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with strong ride-hailing activity and moderate transport accessibility.
+case_018,Chengdu-DIDI,0,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.
+case_018,Chengdu-DIDI,1,mixed_activity,1.2,0.8,1.1,Chengdu-DIDI is a mixed-use area with high transport access and moderate population density.
+case_018,Chengdu-DIDI,2,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with high population density and significant public transport access.
+case_018,Chengdu-DIDI,3,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI features mixed activity with strong public transport access and ride-hailing dominance.
+case_018,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.
+case_018,Chengdu-DIDI,5,mixed_activity,1.3,0.8,1.1,A mixed-use area with high population density and transport amenities supporting ride-hailing services.
+case_018,Chengdu-DIDI,6,mixed_activity,1.3,0.8,1.1,"A mixed-use area with high population density and public transport access, serving as a key ride-hailing hub."
+case_018,Chengdu-DIDI,7,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI features mixed land use with moderate transport access and ride-hailing dominance.
+case_018,Chengdu-DIDI,8,mixed_activity,1.3,0.8,1.1,"A mixed-use area with high population density and public transport access, supporting ride-hailing demand."
+case_018,Chengdu-DIDI,9,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with high population density and significant public transport access.
+case_019,Chengdu-DIDI,0,mixed_activity,1.3,0.8,1.1,"A mixed-use area with significant tourism and amenities, supporting ride-hailing demand."
+case_019,Chengdu-DIDI,1,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and diverse POIs supporting ride-hailing demand.
+case_019,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,"A mixed-use area with a focus on tourism and amenities, serving as a transport hub for ride-hailing services."
+case_019,Chengdu-DIDI,3,mixed_activity,1.4,0.8,1.1,"A mixed-use area with commercial and tourism functions, supporting ride-hailing services."
+case_019,Chengdu-DIDI,4,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and a blend of tourism and retail activities.
+case_019,Chengdu-DIDI,5,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate residential and commercial activity, supporting ride-hailing services."
+case_019,Chengdu-DIDI,6,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and a focus on amenities and tourism.
+case_019,Chengdu-DIDI,7,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and diverse amenities supporting ride-hailing activity.
+case_019,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and diverse amenities supporting ride-hailing services.
+case_019,Chengdu-DIDI,9,mixed_activity,1.2,0.8,1.1,"A mixed-use area with commercial and tourism functions, supporting ride-hailing services."
+case_020,Chengdu-DIDI,0,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_020,Chengdu-DIDI,1,mixed_activity,1.3,0.8,1.1,"A mixed-use urban area with high population density and diverse POI activity, supporting ride-hailing services."
+case_020,Chengdu-DIDI,2,mixed_activity,1.4,0.8,1.1,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport node."
+case_020,Chengdu-DIDI,3,mixed_activity,1.3,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_020,Chengdu-DIDI,4,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.
+case_020,Chengdu-DIDI,5,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_020,Chengdu-DIDI,6,mixed_activity,1.4,0.8,1.1,Chengdu-DIDI serves as a mixed-use hub with high population density and diverse POI activity.
+case_020,Chengdu-DIDI,7,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and diverse POI activity supporting ride-hailing demand.
+case_020,Chengdu-DIDI,8,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with high population density and commercial activity supporting ride-hailing services.
+case_020,Chengdu-DIDI,9,mixed_activity,1.4,0.8,1.1,"A mixed-use urban area with high population density and diverse POI activity, serving as a key transport hub."
+case_021,Philadelphia-SEPTA,0,public_service,1.5,0.8,1.1,A dense public transport hub with high service density and mixed land use.
+case_021,Philadelphia-SEPTA,1,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate density and public transport access.
+case_021,Philadelphia-SEPTA,2,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_021,Philadelphia-SEPTA,3,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs."
+case_021,Philadelphia-SEPTA,4,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and active public transport connectivity.
+case_021,Philadelphia-SEPTA,5,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_021,Philadelphia-SEPTA,6,transport_hub,1.4,1.2,0.9,A major transportation hub with high public transit access and dense urban activity.
+case_021,Philadelphia-SEPTA,7,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_021,Philadelphia-SEPTA,8,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_021,Philadelphia-SEPTA,9,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_022,Philadelphia-SEPTA,0,transport_hub,1.4,1.2,0.9,A major transportation hub with dense public transport infrastructure and high population density.
+case_022,Philadelphia-SEPTA,1,public_service,1.6,0.8,0.9,A transit-focused area with high public transport access and mixed land use.
+case_022,Philadelphia-SEPTA,2,public_service,1.4,0.8,1.1,A transit-focused area with high public transport density and mixed-use activity.
+case_022,Philadelphia-SEPTA,3,public_service,1.6,0.8,0.9,A transit-centric area with high public transport access and dense population serving regional mobility needs.
+case_022,Philadelphia-SEPTA,4,public_service,1.6,1.2,0.8,A high-density public transport hub with significant amenities and service functions.
+case_022,Philadelphia-SEPTA,5,public_service,1.4,0.8,0.9,A transit-centric area with high public transport access and mixed-use activity.
+case_022,Philadelphia-SEPTA,6,transport_hub,1.6,1.4,0.8,A major transportation hub with dense public transit infrastructure and high population density.
+case_022,Philadelphia-SEPTA,7,public_service,1.6,0.8,0.9,A high-density public transport hub with significant amenities and rail infrastructure.
+case_022,Philadelphia-SEPTA,8,transport_hub,1.4,1.2,0.9,A major transportation hub with dense public transit infrastructure and mixed land use.
+case_022,Philadelphia-SEPTA,9,public_service,1.4,0.8,0.9,A high-density public transport hub with significant amenities and service functions.
+case_023,Philadelphia-SEPTA,0,transport_hub,1.5,1.2,0.9,A major transportation hub with high rail and public transport density supporting regional connectivity.
+case_023,Philadelphia-SEPTA,1,transport_hub,1.8,1.5,0.8,A dense industrial and transport-focused area with high rail and public transport activity.
+case_023,Philadelphia-SEPTA,2,transport_hub,1.6,1.4,0.9,A dense transport-focused area with significant rail and public transport infrastructure.
+case_023,Philadelphia-SEPTA,3,industrial,1.6,0.8,0.9,Industrial hub with high transport connectivity and dense population.
+case_023,Philadelphia-SEPTA,4,industrial,1.6,0.8,0.9,Industrial hub with high transport connectivity and dense population.
+case_023,Philadelphia-SEPTA,5,transport_hub,1.5,1.2,0.9,A major transportation hub with dense rail infrastructure and industrial activity.
+case_023,Philadelphia-SEPTA,6,transport_hub,1.5,1.2,0.9,"A major transport hub with high rail and public transport density, serving as a key connectivity node."
+case_023,Philadelphia-SEPTA,7,mixed_activity,1.5,1.2,0.9,A mixed-use area with significant rail infrastructure and industrial activity.
+case_023,Philadelphia-SEPTA,8,transport_hub,1.6,1.2,0.8,"A dense transport hub with high rail and public transport presence, serving as a key transit node."
+case_023,Philadelphia-SEPTA,9,transport_hub,1.5,1.2,0.8,"A major transportation hub with high rail and public transport density, serving as a key transit node."
+case_024,Philadelphia-SEPTA,0,public_service,1.5,0.8,1.1,A high-density public transport hub with strong rail connectivity and mixed land use.
+case_024,Philadelphia-SEPTA,1,public_service,1.6,0.8,0.9,A dense public transport hub with high service density and limited commercial activity.
+case_024,Philadelphia-SEPTA,2,public_service,1.8,0.6,0.9,A high-density public transport hub with significant rail infrastructure and service-oriented activity.
+case_024,Philadelphia-SEPTA,3,public_service,1.6,0.8,0.9,A high-density public transport hub with significant rail infrastructure and mixed land use.
+case_024,Philadelphia-SEPTA,4,public_service,1.6,0.8,1.1,A dense urban area with strong public transport focus and high population density.
+case_024,Philadelphia-SEPTA,5,public_service,1.4,0.8,1.1,A high-density public transport hub with significant rail infrastructure and service-oriented activity.
+case_024,Philadelphia-SEPTA,6,transport_hub,1.6,1.2,0.9,A major transportation hub with high public transit access and dense urban development.
+case_024,Philadelphia-SEPTA,7,public_service,1.8,0.7,1.1,A transit-centric area with high public transport density and dense population serving regional mobility needs.
+case_024,Philadelphia-SEPTA,8,public_service,1.6,0.8,0.9,A transit-focused area with high public transport density and dense population serving regional mobility needs.
+case_024,Philadelphia-SEPTA,9,public_service,1.5,1.2,0.8,A transit-focused area with high public transport density and dense urban development.
+case_025,Philadelphia-SEPTA,0,transport_hub,1.8,1.2,0.8,A major transport hub with high population density and significant rail infrastructure.
+case_025,Philadelphia-SEPTA,1,transport_hub,1.8,1.5,0.8,A high-density transport hub with strong rail connectivity and limited commercial activity.
+case_025,Philadelphia-SEPTA,2,transport_hub,1.5,1.2,0.8,A high-density transport hub with significant rail infrastructure and minimal commercial activity.
+case_025,Philadelphia-SEPTA,3,transport_hub,1.8,1.5,0.8,A major transportation hub with high density and rail infrastructure supporting regional connectivity.
+case_025,Philadelphia-SEPTA,4,transport_hub,1.8,1.2,0.8,A high-density transport hub with significant railway infrastructure and bus connectivity.
+case_025,Philadelphia-SEPTA,5,transport_hub,1.8,1.5,0.8,A major transportation hub with high population density and rail infrastructure.
+case_025,Philadelphia-SEPTA,6,transport_hub,1.8,1.2,0.8,A dense transport hub with high rail infrastructure and significant public transit access.
+case_025,Philadelphia-SEPTA,7,transport_hub,1.5,1.2,0.8,A dense transportation hub with high rail infrastructure and limited commercial activity.
+case_025,Philadelphia-SEPTA,8,transport_hub,1.5,1.2,0.8,A dense transport-focused area with high rail infrastructure and moderate population.
+case_025,Philadelphia-SEPTA,9,transport_hub,1.8,1.2,0.8,A major rail transport hub with high population density and significant public transport infrastructure.
+case_026,Philadelphia-SEPTA,0,public_service,1.4,0.8,1.1,A dense public transport hub with high accessibility and mixed land use.
+case_026,Philadelphia-SEPTA,1,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and bus-focused transport connectivity.
+case_026,Philadelphia-SEPTA,2,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs."
+case_026,Philadelphia-SEPTA,3,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_026,Philadelphia-SEPTA,4,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and public transport access, supporting diverse mobility needs."
+case_026,Philadelphia-SEPTA,5,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_026,Philadelphia-SEPTA,6,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_026,Philadelphia-SEPTA,7,public_service,1.2,0.8,1.1,A dense public transport hub serving a high population with limited commercial activity.
+case_026,Philadelphia-SEPTA,8,public_service,1.2,0.8,1.1,A dense public transport hub with high accessibility and mixed land use functions.
+case_026,Philadelphia-SEPTA,9,public_service,1.2,0.8,1.1,A high-density public transport hub with significant amenities and low industrial activity.
+case_027,Philadelphia-SEPTA,0,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and diverse amenities serving as a transit-oriented hub.
+case_027,Philadelphia-SEPTA,1,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate population density and diverse amenities, supporting bus-based mobility."
+case_027,Philadelphia-SEPTA,2,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and balanced retail, services, and public transport access."
+case_027,Philadelphia-SEPTA,3,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate residential and commercial activity, serving as a transit-oriented hub."
+case_027,Philadelphia-SEPTA,4,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and retail focus, serving as a transit-oriented hub."
+case_027,Philadelphia-SEPTA,5,mixed_activity,1.3,0.8,1.1,"A mixed-use area with commercial and transit hubs, supporting local and regional connectivity."
+case_027,Philadelphia-SEPTA,6,mixed_activity,1.3,0.8,1.1,A mixed-use area with high population density and diverse amenities supporting bus-based mobility.
+case_027,Philadelphia-SEPTA,7,mixed_activity,1.2,0.8,1.1,A mixed-use urban area with moderate density and strong public transport access.
+case_027,Philadelphia-SEPTA,8,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate density and bus-focused transport connectivity.
+case_027,Philadelphia-SEPTA,9,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate residential and commercial activity, supported by bus transit."
+case_028,Philadelphia-SEPTA,0,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and diverse amenities supporting bus-based mobility.
+case_028,Philadelphia-SEPTA,1,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and diverse amenities, serving as a transit-oriented hub."
+case_028,Philadelphia-SEPTA,2,mixed_activity,1.3,0.8,1.1,"A mixed-use area with high population density and commercial activity, serving as a key transport node."
+case_028,Philadelphia-SEPTA,3,mixed_activity,1.3,0.8,1.1,"A mixed-use urban area with moderate residential and commercial activity, serving as a transit-oriented hub."
+case_028,Philadelphia-SEPTA,4,mixed_activity,1.4,0.8,1.1,"A mixed-use area with strong retail and public transport access, supporting diverse mobility needs."
+case_028,Philadelphia-SEPTA,5,mixed_activity,1.2,0.8,1.1,"A mixed-use area with high population density and retail focus, serving as a transit-oriented hub."
+case_028,Philadelphia-SEPTA,6,mixed_activity,1.3,0.8,1.1,"A mixed-use area with high population density and commercial activity, serving as a key transit hub."
+case_028,Philadelphia-SEPTA,7,mixed_activity,1.2,0.8,1.1,A mixed-use urban area with high population density and diverse amenities supporting transit-oriented development.
+case_028,Philadelphia-SEPTA,8,mixed_activity,1.3,0.8,1.1,"A mixed-use urban area with moderate residential and commercial activity, serving as a transit-oriented hub."
+case_028,Philadelphia-SEPTA,9,mixed_activity,1.3,0.8,1.1,A mixed-use urban area with high population density and diverse amenities serving as a key transit hub.
+case_029,Philadelphia-SEPTA,0,mixed_activity,1.4,0.8,1.1,A mixed-use area with high population density and public transport access.
+case_029,Philadelphia-SEPTA,1,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with moderate density and significant public transport access.
+case_029,Philadelphia-SEPTA,2,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_029,Philadelphia-SEPTA,3,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_029,Philadelphia-SEPTA,4,mixed_activity,1.3,0.8,1.1,A mixed-use area with strong public transport access and moderate population density.
+case_029,Philadelphia-SEPTA,5,mixed_activity,1.4,0.8,1.1,A mixed-use area with high population density and public transport access.
+case_029,Philadelphia-SEPTA,6,mixed_activity,1.3,0.8,1.1,"A mixed-use area with moderate density and transit access, serving both residential and commercial functions."
+case_029,Philadelphia-SEPTA,7,mixed_activity,1.4,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_029,Philadelphia-SEPTA,8,mixed_activity,1.4,0.8,1.1,A mixed-use area with high population density and significant public transport access.
+case_029,Philadelphia-SEPTA,9,mixed_activity,1.4,0.8,1.1,A mixed-use urban area with significant public transport access and moderate population density.
+case_030,Philadelphia-SEPTA,0,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_030,Philadelphia-SEPTA,1,mixed_activity,1.3,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_030,Philadelphia-SEPTA,2,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving residential and commercial functions."
+case_030,Philadelphia-SEPTA,3,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_030,Philadelphia-SEPTA,4,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_030,Philadelphia-SEPTA,5,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate density and moderate public transport access.
+case_030,Philadelphia-SEPTA,6,mixed_activity,1.4,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_030,Philadelphia-SEPTA,7,mixed_activity,1.2,0.8,1.1,"A mixed-use area with moderate density and public transport access, serving as a transit-oriented hub."
+case_030,Philadelphia-SEPTA,8,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and significant public transport access.
+case_030,Philadelphia-SEPTA,9,mixed_activity,1.2,0.8,1.1,A mixed-use area with moderate population density and public transport access.
+case_031,Shanghai-MetroFlow,0,mixed_activity,1.4,0.8,1.1,A dense urban hub with strong metro connectivity and mixed land use.
+case_031,Shanghai-MetroFlow,1,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and public transport infrastructure.
+case_031,Shanghai-MetroFlow,2,transport_hub,1.6,1.4,0.8,A major metro transport hub with high public transport and population density.
+case_031,Shanghai-MetroFlow,3,transport_hub,1.8,1.2,0.8,Shanghai-MetroFlow is a major transport hub with high metro accessibility and dense urban activity.
+case_031,Shanghai-MetroFlow,4,transport_hub,1.6,1.2,0.9,A major metro transport hub with high public transport access and dense population.
+case_031,Shanghai-MetroFlow,5,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and public transport infrastructure.
+case_031,Shanghai-MetroFlow,6,transport_hub,1.6,1.2,0.9,A major metro-centric transport hub with high population density and public transport infrastructure.
+case_031,Shanghai-MetroFlow,7,public_service,1.6,0.8,0.9,A high-density metro hub with strong public transport and amenity focus.
+case_031,Shanghai-MetroFlow,8,public_service,1.6,0.8,0.9,A high-density metro hub with strong public transport focus and mixed commercial activity.
+case_031,Shanghai-MetroFlow,9,transport_hub,1.6,1.2,0.9,Shanghai-MetroFlow serves as a major transport hub with high public transport accessibility.
+case_032,Shanghai-MetroFlow,0,transport_hub,1.6,1.4,0.9,A major metro-centric transport hub with high public transport density and dense urban population.
+case_032,Shanghai-MetroFlow,1,public_service,1.6,0.8,0.9,A high-density metro hub with extensive public transport infrastructure serving a dense urban population.
+case_032,Shanghai-MetroFlow,2,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_032,Shanghai-MetroFlow,3,transport_hub,1.8,1.5,0.9,A major metro transport hub with high public transport density and mixed land use.
+case_032,Shanghai-MetroFlow,4,public_service,1.4,0.8,0.9,A high-density metro hub serving public transport and commercial functions with strong connectivity.
+case_032,Shanghai-MetroFlow,5,public_service,1.6,0.8,0.9,A dense metro hub with high public transport access and mixed land use.
+case_032,Shanghai-MetroFlow,6,public_service,1.6,0.8,0.9,A high-density public transport hub serving daily metro passengers with extensive transit infrastructure.
+case_032,Shanghai-MetroFlow,7,public_service,1.6,0.8,0.9,A high-density metro hub serving public transport and transit-oriented development.
+case_032,Shanghai-MetroFlow,8,transport_hub,1.8,1.3,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_032,Shanghai-MetroFlow,9,transport_hub,1.6,1.4,0.9,Shanghai-MetroFlow is a major transport hub with dense public transport infrastructure.
+case_033,Shanghai-MetroFlow,0,public_service,1.6,0.8,1.1,A high-density public transport hub with significant metro infrastructure and service-oriented activity.
+case_033,Shanghai-MetroFlow,1,transport_hub,1.8,1.5,0.9,Shanghai-MetroFlow is a major transport hub with dense public transit infrastructure and high population density.
+case_033,Shanghai-MetroFlow,2,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high public transport and population density.
+case_033,Shanghai-MetroFlow,3,transport_hub,1.6,1.4,0.9,A major metro-centric transport hub with high public transit access and dense urban activity.
+case_033,Shanghai-MetroFlow,4,transport_hub,1.8,1.5,0.8,A major metro-centric transport hub with high public transit access and dense urban activity.
+case_033,Shanghai-MetroFlow,5,public_service,1.6,0.8,0.9,A high-density public transport hub with extensive metro infrastructure and mixed land use.
+case_033,Shanghai-MetroFlow,6,public_service,1.4,0.8,0.9,A high-density public transport hub with extensive metro infrastructure and service-oriented amenities.
+case_033,Shanghai-MetroFlow,7,transport_hub,1.8,1.4,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_033,Shanghai-MetroFlow,8,public_service,1.6,0.8,1.1,A high-density public transport hub with extensive metro infrastructure and mixed land use.
+case_033,Shanghai-MetroFlow,9,public_service,1.4,0.8,0.9,A high-density public transport hub with significant metro infrastructure and service-oriented activity.
+case_034,Shanghai-MetroFlow,0,public_service,1.6,0.8,1.1,A high-density metro station area with strong public transport focus and limited commercial activity.
+case_034,Shanghai-MetroFlow,1,public_service,1.6,0.8,0.9,A high-density metro hub serving public transport and transit-oriented development.
+case_034,Shanghai-MetroFlow,2,public_service,1.6,0.8,0.9,A high-density metro hub serving public transport and transit-oriented development.
+case_034,Shanghai-MetroFlow,3,public_service,1.8,0.6,0.9,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.
+case_034,Shanghai-MetroFlow,4,public_service,1.6,0.8,0.9,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.
+case_034,Shanghai-MetroFlow,5,transport_hub,1.6,1.4,0.9,A major metro transport hub with high public transport density and dense population.
+case_034,Shanghai-MetroFlow,6,public_service,1.6,0.8,0.9,A high-density public transport hub with extensive metro infrastructure serving daily commuter needs.
+case_034,Shanghai-MetroFlow,7,public_service,1.8,0.7,0.9,A high-density metro station area with strong public transport focus and mixed land use.
+case_034,Shanghai-MetroFlow,8,public_service,1.8,0.6,0.9,A high-density metro hub with extensive public transport infrastructure serving daily transit needs.
+case_034,Shanghai-MetroFlow,9,public_service,1.8,0.6,0.9,A high-density metro hub with extensive public transport infrastructure serving daily commuter needs.
+case_035,Shanghai-MetroFlow,0,transport_hub,1.6,1.4,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_035,Shanghai-MetroFlow,1,public_service,1.8,0.7,1.1,A high-density public transport hub with significant metro connectivity and amenities.
+case_035,Shanghai-MetroFlow,2,public_service,1.6,0.8,1.1,A high-density public transport hub with significant metro connectivity and service-oriented functions.
+case_035,Shanghai-MetroFlow,3,public_service,1.6,0.8,1.1,A high-density public transport hub with significant metro connectivity and service-oriented activity.
+case_035,Shanghai-MetroFlow,4,public_service,1.6,0.8,1.1,A high-density metro hub serving public transport and amenities with strong connectivity.
+case_035,Shanghai-MetroFlow,5,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_035,Shanghai-MetroFlow,6,public_service,1.6,0.8,1.1,A dense public transport hub with high population density and extensive metro connectivity.
+case_035,Shanghai-MetroFlow,7,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_035,Shanghai-MetroFlow,8,mixed_activity,1.4,0.8,1.1,A densely populated metro-centric area with high amenity and commercial activity.
+case_035,Shanghai-MetroFlow,9,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_036,Shanghai-MetroFlow,0,mixed_activity,1.6,0.8,0.9,"A dense urban area with high population and mixed land uses, serving as a major metro transit hub."
+case_036,Shanghai-MetroFlow,1,mixed_activity,1.4,0.8,1.1,"A vibrant urban core with high density and mixed land use, serving as a major metro transit hub."
+case_036,Shanghai-MetroFlow,2,mixed_activity,1.6,0.8,1.1,A dense urban area with high population and mixed land uses centered around metro transport.
+case_036,Shanghai-MetroFlow,3,mixed_activity,1.4,0.8,1.1,"A dense urban area with mixed commercial and transport functions, supporting metro connectivity."
+case_036,Shanghai-MetroFlow,4,mixed_activity,1.4,0.8,0.9,"A high-density urban area with mixed commercial and transit functions, supporting metro-centric mobility."
+case_036,Shanghai-MetroFlow,5,mixed_activity,1.4,0.8,1.1,"A bustling urban center with high population density and diverse POI activity, serving as a key metro transport hub."
+case_036,Shanghai-MetroFlow,6,mixed_activity,1.5,1.2,0.9,"A high-density urban area with mixed commercial and transport functions, serving as a metro hub."
+case_036,Shanghai-MetroFlow,7,mixed_activity,1.4,0.8,0.9,"A dense urban area with high population and mixed land use, serving as a metro hub for both residential and commercial activities."
+case_036,Shanghai-MetroFlow,8,mixed_activity,1.5,1.2,0.9,"A dense urban area with high population and mixed land use, serving as a key metro hub."
+case_036,Shanghai-MetroFlow,9,mixed_activity,1.6,0.9,1.1,"A dense urban area with strong commercial and public transport activity, serving as a key metro hub."
+case_037,Shanghai-MetroFlow,0,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_037,Shanghai-MetroFlow,1,transport_hub,1.6,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_037,Shanghai-MetroFlow,2,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_037,Shanghai-MetroFlow,3,transport_hub,1.6,1.4,0.8,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_037,Shanghai-MetroFlow,4,public_service,1.3,0.8,1.1,A dense metro-centric area with high public transport access and mixed-use development.
+case_037,Shanghai-MetroFlow,5,transport_hub,1.6,1.2,0.9,Shanghai-MetroFlow is a major transport hub with high metro connectivity and dense population.
+case_037,Shanghai-MetroFlow,6,transport_hub,1.6,1.4,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_037,Shanghai-MetroFlow,7,mixed_activity,1.4,0.8,1.1,A dense urban hub with strong public transport connectivity and mixed land use.
+case_037,Shanghai-MetroFlow,8,transport_hub,1.6,1.2,0.9,Shanghai-MetroFlow is a major transport hub with high metro connectivity and dense urban activity.
+case_037,Shanghai-MetroFlow,9,mixed_activity,1.4,0.8,1.1,A dense urban area with high metro connectivity and mixed land use.
+case_038,Shanghai-MetroFlow,0,mixed_activity,1.5,1.2,0.9,A dense urban area with mixed land uses and strong public transport connectivity.
+case_038,Shanghai-MetroFlow,1,public_service,1.4,0.8,1.1,A high-density public transport hub with significant metro connectivity and service-oriented functions.
+case_038,Shanghai-MetroFlow,2,transport_hub,1.8,1.4,0.9,A major metro transit hub with high population density and extensive public transport infrastructure.
+case_038,Shanghai-MetroFlow,3,transport_hub,1.8,1.4,0.9,A major metro hub with high public transport access and dense urban activity.
+case_038,Shanghai-MetroFlow,4,transport_hub,1.6,1.4,0.9,A major metro-centric transport hub with high population density and public transport infrastructure.
+case_038,Shanghai-MetroFlow,5,public_service,1.6,0.8,0.9,A high-density public transport hub with significant metro connectivity and service-oriented activity.
+case_038,Shanghai-MetroFlow,6,transport_hub,1.6,1.2,0.9,A major metro-centric transport hub with high population density and significant public transport infrastructure.
+case_038,Shanghai-MetroFlow,7,mixed_activity,1.4,0.8,1.1,A mixed-use area with strong public transport connectivity and moderate residential density.
+case_038,Shanghai-MetroFlow,8,transport_hub,1.8,1.2,0.9,A major metro hub with high population density and extensive public transport infrastructure.
+case_038,Shanghai-MetroFlow,9,public_service,1.8,0.7,0.9,A high-density public transport hub with significant metro connectivity and mixed land use.
+case_039,Shanghai-MetroFlow,0,transport_hub,1.6,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_039,Shanghai-MetroFlow,1,transport_hub,1.6,1.4,0.8,A major metro-centric transport hub with high population density and significant public transport infrastructure.
+case_039,Shanghai-MetroFlow,2,transport_hub,1.6,1.2,0.9,A dense metro-centric area with high public transport access and mixed land use.
+case_039,Shanghai-MetroFlow,3,mixed_activity,1.4,0.8,0.9,A dense urban area with high public transport access and mixed land use functions.
+case_039,Shanghai-MetroFlow,4,mixed_activity,1.4,0.8,1.1,A dense urban area with strong metro connectivity and mixed land use functions.
+case_039,Shanghai-MetroFlow,5,transport_hub,1.6,1.4,0.9,Shanghai-MetroFlow serves as a major transport hub with high public transport access and dense urban activity.
+case_039,Shanghai-MetroFlow,6,public_service,1.4,0.8,1.1,A high-density public transport hub with significant amenities and commercial activity.
+case_039,Shanghai-MetroFlow,7,public_service,1.6,0.8,0.9,A high-density public transport hub with significant amenities and commercial activity.
+case_039,Shanghai-MetroFlow,8,mixed_activity,1.4,0.8,1.1,A high-density urban area with mixed land use and strong public transport connectivity.
+case_039,Shanghai-MetroFlow,9,mixed_activity,1.4,0.8,1.1,A dense urban area with strong metro connectivity and mixed land use functions.
+case_040,Shanghai-MetroFlow,0,public_service,1.5,0.8,1.1,A high-density public transport hub with significant metro infrastructure and service-oriented activity.
+case_040,Shanghai-MetroFlow,1,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_040,Shanghai-MetroFlow,2,transport_hub,1.8,1.2,0.9,A major metro-centric transport hub with high population density and extensive public transport infrastructure.
+case_040,Shanghai-MetroFlow,3,transport_hub,1.6,1.2,0.8,A major metro hub with high population density and extensive public transport infrastructure.
+case_040,Shanghai-MetroFlow,4,public_service,1.6,0.8,0.9,A high-density metro hub with extensive public transport infrastructure and mixed land use.
+case_040,Shanghai-MetroFlow,5,mixed_activity,1.6,1.2,0.9,A dense urban hub with strong metro connectivity and mixed land use functions.
+case_040,Shanghai-MetroFlow,6,public_service,1.6,0.8,1.1,A high-density metro station area with strong public transport focus and mixed land use.
+case_040,Shanghai-MetroFlow,7,public_service,1.6,0.8,1.1,A high-density metro hub with extensive public transport infrastructure serving a dense urban population.
+case_040,Shanghai-MetroFlow,8,public_service,1.8,0.7,0.9,A high-density metro hub serving public transport and administrative functions with strong connectivity.
+case_040,Shanghai-MetroFlow,9,public_service,1.6,0.8,0.9,A high-density metro station area with strong public transport focus and mixed land use.

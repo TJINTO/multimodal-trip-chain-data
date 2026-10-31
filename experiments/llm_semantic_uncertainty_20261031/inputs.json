@@ -1,0 +1,1002 @@
+[
+  {
+    "case_id": "case_001",
+    "city": "Baltimore-MPO",
+    "unit_id": "1",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 4340.031389,
+      "population_density": 5398.321879,
+      "poi_amenity": 20.0,
+      "poi_shop": 13.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 16.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.032497531103418,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 4704.5681894656,
+      "raw_in": 1411.49767677576
+    }
+  },
+  {
+    "case_id": "case_002",
+    "city": "Baltimore-MPO",
+    "unit_id": "10",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 1035.304492,
+      "population_density": 1651.122856,
+      "poi_amenity": 1.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 10.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 0.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0367870004790478,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 1111.5115452723294,
+      "raw_in": 323.0909918317475
+    }
+  },
+  {
+    "case_id": "case_003",
+    "city": "Baltimore-MPO",
+    "unit_id": "100",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 3249.830135,
+      "population_density": 3984.695644,
+      "poi_amenity": 937.0,
+      "poi_shop": 18.0,
+      "poi_office": 1.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 55.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 3.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.043825063041059,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 4340.976109118357,
+      "raw_in": 3749.571599953081
+    }
+  },
+  {
+    "case_id": "case_004",
+    "city": "Baltimore-MPO",
+    "unit_id": "101",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 1447.286976,
+      "population_density": 1508.743714,
+      "poi_amenity": 1039.0,
+      "poi_shop": 20.0,
+      "poi_office": 1.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 89.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 4.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0425788630310204,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 2465.9245766676067,
+      "raw_in": 3562.6030449555797
+    }
+  },
+  {
+    "case_id": "case_005",
+    "city": "Baltimore-MPO",
+    "unit_id": "102",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 1672.151144,
+      "population_density": 1714.226333,
+      "poi_amenity": 10.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 9.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 0.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.041320018703226,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 1786.1292512019186,
+      "raw_in": 525.6056252650641
+    }
+  },
+  {
+    "case_id": "case_006",
+    "city": "Baltimore-MPO",
+    "unit_id": "103",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 2258.20609,
+      "population_density": 5767.821642,
+      "poi_amenity": 14.0,
+      "poi_shop": 2.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 7.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0415915381632945,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 2488.126095136527,
+      "raw_in": 728.1072761588931
+    }
+  },
+  {
+    "case_id": "case_007",
+    "city": "Baltimore-MPO",
+    "unit_id": "104",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 3772.45932,
+      "population_density": 4294.433975,
+      "poi_amenity": 62.0,
+      "poi_shop": 38.0,
+      "poi_office": 6.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 12.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0455634733150474,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 4272.361776168343,
+      "raw_in": 1553.8250391850083
+    }
+  },
+  {
+    "case_id": "case_008",
+    "city": "Baltimore-MPO",
+    "unit_id": "105",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 1767.60768,
+      "population_density": 4248.084071,
+      "poi_amenity": 38.0,
+      "poi_shop": 26.0,
+      "poi_office": 2.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 39.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.043218638222191,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 2073.1420662988344,
+      "raw_in": 876.6240279496883
+    }
+  },
+  {
+    "case_id": "case_009",
+    "city": "Baltimore-MPO",
+    "unit_id": "106",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 3291.504468,
+      "population_density": 5147.724947,
+      "poi_amenity": 82.0,
+      "poi_shop": 51.0,
+      "poi_office": 3.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 23.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 2.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0442264526054623,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 3802.5732269769346,
+      "raw_in": 1530.2929772276982
+    }
+  },
+  {
+    "case_id": "case_010",
+    "city": "Baltimore-MPO",
+    "unit_id": "107",
+    "mode": "motor_vehicle",
+    "evidence": {
+      "population": 2788.569737,
+      "population_density": 4022.811628,
+      "poi_amenity": 29.0,
+      "poi_shop": 4.0,
+      "poi_office": 4.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 42.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0423209605842028,
+      "target_out": "motor_outflow",
+      "target_in": "motor_inflow",
+      "raw_out": 3123.879514931842,
+      "raw_in": 1093.119489849443
+    }
+  },
+  {
+    "case_id": "case_011",
+    "city": "Chengdu-DIDI",
+    "unit_id": "24:30",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 4703.756812,
+      "population_density": 2251.26078,
+      "poi_amenity": 3.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 1.0,
+      "poi_railway": 1.0,
+      "poi_tourism": 0.0,
+      "poi_building": 24.0
+    },
+    "downstream": {
+      "central_factor": 1.0362548529606193,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 4755.239527599997,
+      "raw_in": 1204.9455068999996
+    }
+  },
+  {
+    "case_id": "case_012",
+    "city": "Chengdu-DIDI",
+    "unit_id": "30:15",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 78922.497105,
+      "population_density": 37655.882279,
+      "poi_amenity": 218.0,
+      "poi_shop": 75.0,
+      "poi_office": 77.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 81.0,
+      "poi_railway": 26.0,
+      "poi_tourism": 39.0,
+      "poi_building": 1312.0
+    },
+    "downstream": {
+      "central_factor": 1.043596870058217,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 80221.94350058003,
+      "raw_in": 21480.02868764501
+    }
+  },
+  {
+    "case_id": "case_013",
+    "city": "Chengdu-DIDI",
+    "unit_id": "41:27",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 2810.865581,
+      "population_density": 1359.505069,
+      "poi_amenity": 180.0,
+      "poi_shop": 97.0,
+      "poi_office": 21.0,
+      "poi_industrial": 3.0,
+      "poi_public_transport": 6.0,
+      "poi_railway": 3.0,
+      "poi_tourism": 11.0,
+      "poi_building": 919.0
+    },
+    "downstream": {
+      "central_factor": 1.0338601725510799,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 3198.7463073800004,
+      "raw_in": 1695.1389205950004
+    }
+  },
+  {
+    "case_id": "case_014",
+    "city": "Chengdu-DIDI",
+    "unit_id": "22:20",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 21521.279383,
+      "population_density": 10264.67032,
+      "poi_amenity": 10.0,
+      "poi_shop": 0.0,
+      "poi_office": 1.0,
+      "poi_industrial": 6.0,
+      "poi_public_transport": 9.0,
+      "poi_railway": 8.0,
+      "poi_tourism": 0.0,
+      "poi_building": 58.0
+    },
+    "downstream": {
+      "central_factor": 1.0453262023599652,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 21755.836539400007,
+      "raw_in": 5524.393197350001
+    }
+  },
+  {
+    "case_id": "case_015",
+    "city": "Chengdu-DIDI",
+    "unit_id": "26:20",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 12851.549923,
+      "population_density": 6138.094679,
+      "poi_amenity": 100.0,
+      "poi_shop": 8.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 19.0,
+      "poi_railway": 16.0,
+      "poi_tourism": 20.0,
+      "poi_building": 153.0
+    },
+    "downstream": {
+      "central_factor": 1.0488738327421054,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 13107.636191580003,
+      "raw_in": 3651.452954144998
+    }
+  },
+  {
+    "case_id": "case_016",
+    "city": "Chengdu-DIDI",
+    "unit_id": "29:18",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 124032.350383,
+      "population_density": 59792.481911,
+      "poi_amenity": 37.0,
+      "poi_shop": 229.0,
+      "poi_office": 3.0,
+      "poi_industrial": 1.0,
+      "poi_public_transport": 18.0,
+      "poi_railway": 11.0,
+      "poi_tourism": 3.0,
+      "poi_building": 666.0
+    },
+    "downstream": {
+      "central_factor": 1.0473302471774937,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 125548.55252122007,
+      "raw_in": 32216.92500530502
+    }
+  },
+  {
+    "case_id": "case_017",
+    "city": "Chengdu-DIDI",
+    "unit_id": "46:7",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 596.002341,
+      "population_density": 340.50738,
+      "poi_amenity": 59.0,
+      "poi_shop": 3.0,
+      "poi_office": 10.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 14.0,
+      "poi_railway": 8.0,
+      "poi_tourism": 4.0,
+      "poi_building": 321.0
+    },
+    "downstream": {
+      "central_factor": 1.0262025109641448,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 714.1906136000002,
+      "raw_in": 461.7031221500001
+    }
+  },
+  {
+    "case_id": "case_018",
+    "city": "Chengdu-DIDI",
+    "unit_id": "32:20",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 577.633002,
+      "population_density": 275.501943,
+      "poi_amenity": 6.0,
+      "poi_shop": 1.0,
+      "poi_office": 0.0,
+      "poi_industrial": 4.0,
+      "poi_public_transport": 9.0,
+      "poi_railway": 6.0,
+      "poi_tourism": 0.0,
+      "poi_building": 42.0
+    },
+    "downstream": {
+      "central_factor": 1.0453262023599652,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 604.9380408600001,
+      "raw_in": 216.4107602150001
+    }
+  },
+  {
+    "case_id": "case_019",
+    "city": "Chengdu-DIDI",
+    "unit_id": "9:38",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 148.925077,
+      "population_density": 71.891672,
+      "poi_amenity": 6.0,
+      "poi_shop": 1.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 0.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 4.0,
+      "poi_building": 25.0
+    },
+    "downstream": {
+      "central_factor": 1.021011746013859,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 161.22853544000003,
+      "raw_in": 67.34072760999997
+    }
+  },
+  {
+    "case_id": "case_020",
+    "city": "Chengdu-DIDI",
+    "unit_id": "27:14",
+    "mode": "ride_hailing",
+    "evidence": {
+      "population": 30082.261263,
+      "population_density": 14349.996335,
+      "poi_amenity": 25.0,
+      "poi_shop": 16.0,
+      "poi_office": 7.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 1.0,
+      "poi_railway": 0.0,
+      "poi_tourism": 2.0,
+      "poi_building": 1084.0
+    },
+    "downstream": {
+      "central_factor": 1.0429487179487178,
+      "target_out": "demand",
+      "target_in": "response",
+      "raw_out": 30545.25368969999,
+      "raw_in": 7985.815297424996
+    }
+  },
+  {
+    "case_id": "case_021",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "15796",
+    "mode": "bus",
+    "evidence": {
+      "population": 197.8587871157605,
+      "population_density": 1009.307078590852,
+      "poi_amenity": 13.0,
+      "poi_shop": 1.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 5.84,
+      "poi_railway": 2.0,
+      "poi_tourism": 0.0,
+      "poi_building": 2.0
+    },
+    "downstream": {
+      "central_factor": 1.0354093495289785,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 205.30886675291634,
+      "raw_in": 205.30886675291634
+    }
+  },
+  {
+    "case_id": "case_022",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "10266",
+    "mode": "bus",
+    "evidence": {
+      "population": 163.53000572884767,
+      "population_density": 834.1908628377579,
+      "poi_amenity": 109.0,
+      "poi_shop": 28.0,
+      "poi_office": 9.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 69.95,
+      "poi_railway": 75.0,
+      "poi_tourism": 22.0,
+      "poi_building": 9.0
+    },
+    "downstream": {
+      "central_factor": 1.0375996973567587,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 1679.0608711667217,
+      "raw_in": 1679.0608711667217
+    }
+  },
+  {
+    "case_id": "case_023",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "13106",
+    "mode": "bus",
+    "evidence": {
+      "population": 460.64813938209227,
+      "population_density": 2349.834619910174,
+      "poi_amenity": 1.0,
+      "poi_shop": 0.0,
+      "poi_office": 1.0,
+      "poi_industrial": 3.0,
+      "poi_public_transport": 3.0,
+      "poi_railway": 6.0,
+      "poi_tourism": 0.0,
+      "poi_building": 1.0
+    },
+    "downstream": {
+      "central_factor": 1.0469376464784768,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 213.1826667330758,
+      "raw_in": 213.1826667330758
+    }
+  },
+  {
+    "case_id": "case_024",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "17133",
+    "mode": "bus",
+    "evidence": {
+      "population": 192.27813570024543,
+      "population_density": 980.8393463312178,
+      "poi_amenity": 15.0,
+      "poi_shop": 2.0,
+      "poi_office": 1.0,
+      "poi_industrial": 3.0,
+      "poi_public_transport": 27.64,
+      "poi_railway": 41.0,
+      "poi_tourism": 0.0,
+      "poi_building": 2.0
+    },
+    "downstream": {
+      "central_factor": 1.044810133458638,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 644.4197666766808,
+      "raw_in": 644.4197666766808
+    }
+  },
+  {
+    "case_id": "case_025",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "30841",
+    "mode": "bus",
+    "evidence": {
+      "population": 460.64813938209227,
+      "population_density": 2349.834619910174,
+      "poi_amenity": 0.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 1.3,
+      "poi_railway": 35.0,
+      "poi_tourism": 0.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.041235477305535,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 351.59718228945064,
+      "raw_in": 351.59718228945064
+    }
+  },
+  {
+    "case_id": "case_026",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "30730",
+    "mode": "bus",
+    "evidence": {
+      "population": 78.10897019218964,
+      "population_density": 398.4454654030332,
+      "poi_amenity": 3.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 1.74,
+      "poi_railway": 0.0,
+      "poi_tourism": 0.0,
+      "poi_building": 1.0
+    },
+    "downstream": {
+      "central_factor": 1.0148399995887363,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 66.31001048169735,
+      "raw_in": 66.31001048169735
+    }
+  },
+  {
+    "case_id": "case_027",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "16846",
+    "mode": "bus",
+    "evidence": {
+      "population": 163.53000572884767,
+      "population_density": 834.1908628377579,
+      "poi_amenity": 114.0,
+      "poi_shop": 43.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 9.92,
+      "poi_railway": 0.0,
+      "poi_tourism": 9.0,
+      "poi_building": 40.0
+    },
+    "downstream": {
+      "central_factor": 1.0392695633543765,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 728.8253384236061,
+      "raw_in": 728.8253384236061
+    }
+  },
+  {
+    "case_id": "case_028",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "19694",
+    "mode": "bus",
+    "evidence": {
+      "population": 167.06811347020675,
+      "population_density": 852.2392762553612,
+      "poi_amenity": 78.0,
+      "poi_shop": 29.0,
+      "poi_office": 10.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 2.87,
+      "poi_railway": 0.0,
+      "poi_tourism": 4.0,
+      "poi_building": 1.0
+    },
+    "downstream": {
+      "central_factor": 1.0270545894481329,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 453.4257739641504,
+      "raw_in": 453.4257739641504
+    }
+  },
+  {
+    "case_id": "case_029",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "30080",
+    "mode": "bus",
+    "evidence": {
+      "population": 163.53000572884767,
+      "population_density": 834.1908628377579,
+      "poi_amenity": 94.0,
+      "poi_shop": 20.0,
+      "poi_office": 3.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 28.6,
+      "poi_railway": 48.0,
+      "poi_tourism": 0.0,
+      "poi_building": 13.0
+    },
+    "downstream": {
+      "central_factor": 1.0386415762281471,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 949.5147322725761,
+      "raw_in": 949.5147322725761
+    }
+  },
+  {
+    "case_id": "case_030",
+    "city": "Philadelphia-SEPTA",
+    "unit_id": "16478",
+    "mode": "bus",
+    "evidence": {
+      "population": 192.27813570024543,
+      "population_density": 980.8393463312178,
+      "poi_amenity": 1.0,
+      "poi_shop": 0.0,
+      "poi_office": 0.0,
+      "poi_industrial": 2.0,
+      "poi_public_transport": 1.82,
+      "poi_railway": 0.0,
+      "poi_tourism": 1.0,
+      "poi_building": 0.0
+    },
+    "downstream": {
+      "central_factor": 1.0377833361507298,
+      "target_out": "bus_tap_out",
+      "target_in": "bus_tap_in",
+      "raw_out": 94.64774628835858,
+      "raw_in": 94.64774628835858
+    }
+  },
+  {
+    "case_id": "case_031",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "129",
+    "mode": "metro",
+    "evidence": {
+      "population": 8306.884597,
+      "population_density": 13585.494141,
+      "poi_amenity": 60.0,
+      "poi_shop": 10.0,
+      "poi_office": 2.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 71.0,
+      "poi_railway": 6.0,
+      "poi_tourism": 7.0,
+      "poi_building": 334.0
+    },
+    "downstream": {
+      "central_factor": 1.0372218268437048,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 1862.8441719730004,
+      "raw_in": 1862.8441719730004
+    }
+  },
+  {
+    "case_id": "case_032",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "645",
+    "mode": "metro",
+    "evidence": {
+      "population": 3114.115595,
+      "population_density": 5048.01625,
+      "poi_amenity": 22.0,
+      "poi_shop": 4.0,
+      "poi_office": 0.0,
+      "poi_industrial": 11.0,
+      "poi_public_transport": 327.0,
+      "poi_railway": 5.0,
+      "poi_tourism": 1.0,
+      "poi_building": 153.0
+    },
+    "downstream": {
+      "central_factor": 1.0328159802641625,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 1830.1338879999992,
+      "raw_in": 1830.1338879999992
+    }
+  },
+  {
+    "case_id": "case_033",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "924",
+    "mode": "metro",
+    "evidence": {
+      "population": 1282.76874,
+      "population_density": 2104.053896,
+      "poi_amenity": 333.0,
+      "poi_shop": 38.0,
+      "poi_office": 18.0,
+      "poi_industrial": 2.0,
+      "poi_public_transport": 1614.0,
+      "poi_railway": 16.0,
+      "poi_tourism": 27.0,
+      "poi_building": 1400.0
+    },
+    "downstream": {
+      "central_factor": 1.0318047596357192,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 7605.477472687995,
+      "raw_in": 7605.477472687995
+    }
+  },
+  {
+    "case_id": "case_034",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "722",
+    "mode": "metro",
+    "evidence": {
+      "population": 2150.446353,
+      "population_density": 3521.023485,
+      "poi_amenity": 8.0,
+      "poi_shop": 1.0,
+      "poi_office": 0.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 149.0,
+      "poi_railway": 3.0,
+      "poi_tourism": 1.0,
+      "poi_building": 3.0
+    },
+    "downstream": {
+      "central_factor": 1.0249814422966996,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 914.5275234050004,
+      "raw_in": 914.5275234050004
+    }
+  },
+  {
+    "case_id": "case_035",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "1629",
+    "mode": "metro",
+    "evidence": {
+      "population": 2990.736965,
+      "population_density": 4902.691369,
+      "poi_amenity": 357.0,
+      "poi_shop": 218.0,
+      "poi_office": 23.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 997.0,
+      "poi_railway": 1.0,
+      "poi_tourism": 17.0,
+      "poi_building": 6142.0
+    },
+    "downstream": {
+      "central_factor": 1.0319240651915387,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 7453.933618857006,
+      "raw_in": 7453.933618857006
+    }
+  },
+  {
+    "case_id": "case_036",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "2019",
+    "mode": "metro",
+    "evidence": {
+      "population": 43576.752956,
+      "population_density": 71237.233942,
+      "poi_amenity": 203.0,
+      "poi_shop": 85.0,
+      "poi_office": 39.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 63.0,
+      "poi_railway": 7.0,
+      "poi_tourism": 85.0,
+      "poi_building": 955.0
+    },
+    "downstream": {
+      "central_factor": 1.041809055462214,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 8324.112145225998,
+      "raw_in": 8324.112145225998
+    }
+  },
+  {
+    "case_id": "case_037",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "1633",
+    "mode": "metro",
+    "evidence": {
+      "population": 219.732752,
+      "population_density": 1066.578735,
+      "poi_amenity": 20.0,
+      "poi_shop": 0.0,
+      "poi_office": 1.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 143.0,
+      "poi_railway": 5.0,
+      "poi_tourism": 6.0,
+      "poi_building": 255.0
+    },
+    "downstream": {
+      "central_factor": 1.0146446609406725,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 715.447149005,
+      "raw_in": 715.447149005
+    }
+  },
+  {
+    "case_id": "case_038",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "253",
+    "mode": "metro",
+    "evidence": {
+      "population": 10066.661441,
+      "population_density": 16450.773857,
+      "poi_amenity": 39.0,
+      "poi_shop": 6.0,
+      "poi_office": 25.0,
+      "poi_industrial": 4.0,
+      "poi_public_transport": 111.0,
+      "poi_railway": 3.0,
+      "poi_tourism": 6.0,
+      "poi_building": 177.0
+    },
+    "downstream": {
+      "central_factor": 1.0438380293945877,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 2242.604037721002,
+      "raw_in": 2242.604037721002
+    }
+  },
+  {
+    "case_id": "case_039",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "925",
+    "mode": "metro",
+    "evidence": {
+      "population": 4075.924089,
+      "population_density": 6592.639658,
+      "poi_amenity": 1156.0,
+      "poi_shop": 276.0,
+      "poi_office": 2.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 565.0,
+      "poi_railway": 11.0,
+      "poi_tourism": 5.0,
+      "poi_building": 606.0
+    },
+    "downstream": {
+      "central_factor": 1.033969941675049,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 6587.611532323998,
+      "raw_in": 6587.611532323998
+    }
+  },
+  {
+    "case_id": "case_040",
+    "city": "Shanghai-MetroFlow",
+    "unit_id": "920",
+    "mode": "metro",
+    "evidence": {
+      "population": 12980.056507,
+      "population_density": 21169.803057,
+      "poi_amenity": 69.0,
+      "poi_shop": 4.0,
+      "poi_office": 25.0,
+      "poi_industrial": 0.0,
+      "poi_public_transport": 432.0,
+      "poi_railway": 31.0,
+      "poi_tourism": 0.0,
+      "poi_building": 781.0
+    },
+    "downstream": {
+      "central_factor": 1.0276316828915177,
+      "target_out": "metro_out",
+      "target_in": "metro_in",
+      "raw_out": 4195.350385220998,
+      "raw_in": 4195.350385220998
+    }
+  }
+]
