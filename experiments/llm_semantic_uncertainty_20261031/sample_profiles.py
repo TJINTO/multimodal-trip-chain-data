@@ -30,7 +30,7 @@ SCHEMA = {"type": "object", "properties": {
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", default="qwen3:8b")
+    parser.add_argument("--model", default="chatgpt5.5")
     parser.add_argument("--repeats", type=int, default=10)
     parser.add_argument("--limit-cases", type=int)
     parser.add_argument("--output", default="raw_samples.jsonl")
