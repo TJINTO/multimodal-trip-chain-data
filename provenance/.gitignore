@@ -1,0 +1,4 @@
+private_captures/
+*.response
+__pycache__/
+.pytest_cache/
