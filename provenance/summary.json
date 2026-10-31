@@ -1,0 +1,13 @@
+{
+  "built_at": "2026-11-01T01:36:39+08:00",
+  "source_count": 24,
+  "artifact_count": 28,
+  "captured_text_count": 15,
+  "public_text_snapshot_count": 4,
+  "external_archive_verified_count": 0,
+  "snapshot_commit": "22eb5b5ca8e5bbf0613fa507e368257f44aa5182",
+  "timestamp_scope": "This audit's capture attempt times; historical times are separate and may be unknown/date-only.",
+  "integrity_scope": "Hashes verify frozen bytes, not independent timestamp attestation or factual correctness of source claims.",
+  "no_model_rerun": true,
+  "historical_precision_note": "historical_recorded_at may describe processing time rather than retrieval; historical_time_basis must be read with it"
+}

@@ -1,0 +1,4 @@
+requests==2.32.5
+beautifulsoup4>=4.12,<5
+pypdf==5.9.0
+pytest>=8,<9

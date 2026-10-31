@@ -7,6 +7,8 @@
 - [DATASETS.md](DATASETS.md)：巴尔的摩、成都、上海与费城的数据来源、时间口径、研究单元和获取地址。
 - [DATA_PREPROCESSING.md](DATA_PREPROCESSING.md)：逐数据源的清洗、空间聚合、24 h 统计、缺失观测处理及样本导出流程。
 - [preprocessing_audit.json](preprocessing_audit.json)：已核查文件的数值缺失、零值、低完整性日期及处理脚本版本摘要。
+- [metadata.csv](metadata.csv)：24条结构化及非结构化来源的溯源清单，包含抓取时间、内容哈希、快照类型和用途。
+- [数据溯源说明](provenance/README.md)：新闻、报告、百科的使用范围与版权处理，并关联28个实际数据文件的哈希清单。
 
 本仓库发布上海生成出行链样本，以及四城数据处理说明；四城原始数据请通过各数据提供方获取。年度平均日、工作日平均日与具体日期的 24 h 合计分别保留原有含义。
 
