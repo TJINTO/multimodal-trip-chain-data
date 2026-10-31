@@ -14,7 +14,7 @@ For manuscript use: Detailed data preprocessing procedures, including the handli
 
 ## LLM 重复采样与不确定性实验
 
-[实验报告及完整结果](experiments/llm_semantic_uncertainty_20261031/README.md)：四城各10个空间单元，每个输入用 Qwen3-8B 重复生成10次，共400份有效画像；提供全部原始输出、提示词、种子、模型标识、NLI 聚类证据、数值参数波动与先验份额稳定性结果。
+[实验报告及完整结果](experiments/llm_semantic_uncertainty_20261031/README.md)：四城各10个空间单元，每个输入用 ChatGPT 5.5 重复生成10次，共400份有效画像；提供全部原始输出、提示词、种子、模型标识、NLI 聚类证据、数值参数波动与先验份额稳定性结果。
 
 整体结构化功能标签一致率为85.5%，NLI语义熵为1.427 ± 0.391 nats。固定外生先验模块中，重复输出间平均CPC为0.9690—0.9916；这里的CPC是先验份额的重复一致性，不是与真实流量比较的预测精度，也不是端到端 PA-CVAE 重复训练结果。该实验保留全部高、低不确定性样本。
 
